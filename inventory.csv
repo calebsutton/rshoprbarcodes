@@ -1,0 +1,681 @@
+id,name,description,maintain_stock,quantity,condition,warranty,created_at,updated_at,sort_order,disabled,reorder_at,taxable,upc_code,pdf,discount_percent,warranty_template_id,qb_item_id,vendor_id,desired_stock_level,notes,tax_rate_id,xero_item_id,serialized,delete,price_retail,price_cost,price_wholesale,category_path,vendor,serial_numbers
+1001719,100762 80-IN-1 USB CARD READER,3627,true,26,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:38 -0700,,false,,true,766623100762,"",,,,,,,,,false,"",19.0,11.35,0.0,USB Devices,D&H
+1001846,101721 MH CAR CHARGER USB 2PT,4493,true,5,,,2015-08-01 14:34:24 -0700,2015-08-01 14:34:24 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,3.62,0.0,USB Devices,
+1001847,101738 MH USB CHARGER 2PT,4492,true,5,,,2015-08-01 14:34:24 -0700,2015-08-01 14:34:24 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,5.4,0.0,USB Devices,
+1001494,1394_44_15T,470,true,8,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030796323,"",,,,,,,,,false,"",12.0,6.0,0.0,Cable;Misc,
+1001848,1394_46_15,703,true,5,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",16.0,6.2,0.0,Cable;Misc,
+1001849,1394_99_10,1851,true,2,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,10.95,0.0,Cable;Misc,
+1001850,150682 MH PCIE SERIAL 4PT,4300,true,3,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,48.0,0.0,Miscellaneous,D&H
+1001851,158176 MH PCIE PARALLEL 1PT,4301,true,2,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,21.01,0.0,Miscellaneous,D&H
+1001722,161022 13PT USB2.0 HUB W/ POWER,2342,true,2,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623161022,"",,,,,,,,,false,"",39.0,23.85,0.0,USB Devices;HUB,
+1001723,161039 MH USB2.0 7PT HUB POWER,2151,true,7,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623161039,"",,,,,,,,,false,"",29.0,11.09,0.0,USB Devices;HUB,
+1001724,161053 MH FLOWER BUS HUB,2111,true,6,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623161053,"",,,,,,,,,false,"",12.0,6.37,0.0,USB Devices;HUB,
+1001852,161176 MH BLUETOOTH STEREO TRANS,2503,true,1,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",79.0,53.65,0.0,USB Devices,
+1001853,177269 MH HDMI EXT - CAT5E/CAT6,4408,true,2,,,2015-08-01 14:34:25 -0700,2015-08-01 14:34:25 -0700,,false,,true,,"",,,,,,,,,false,"",129.0,76.23,0.0,Cable;Adapter,
+1001854,178150 MH FUSION BT HEADSET,4399,true,2,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,31.2,0.0,Peripheral;Headset,
+1001855,178709 MH FATHOM BT BLACK,4398,true,3,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",89.0,61.75,0.0,Peripheral;Headset,
+1001856,178747 MH FREESTYLE BT ORANGE,4397,true,2,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,25.18,0.0,Peripheral;Headset,
+1001857,178754 MH FREESTYLE BT RED,4396,true,2,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,25.18,0.0,Peripheral;Headset,
+1001858,179188 MH USB2.0 TO EXPRESS 3/4,1368,true,5,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,14.0,0.0,USB Devices,
+1001725,179195 MH HDD ADAPTER USB,2380,true,2,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623179195,"",,,,,,,,,false,"",35.0,18.81,0.0,Hard Drive;Enclosure,
+1001859,180139 MH UNI SOLAR POWER PACK,4410,true,7,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",12.0,7.5,0.0,Battery,
+1001860,205146 MH USB SERIAL CONVERTER,2379,true,18,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,7.69,0.0,USB Devices,
+1001861,210355 INT KEYSTONE CAT5E UTP WH,2572,true,14,,,2015-08-01 14:34:26 -0700,2015-08-01 14:34:26 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.24,0.0,Network;Wired,
+1001862,211062 INT RJ45 CRIMPER,4489,true,2,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",19.0,2.43,0.0,Network,
+1001863,302234 MH USB2.0 AM-MINI B4M 6FT,1379,true,10,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;USB,
+1001864,304559 MH SVGA SPLITTER Y,4487,true,18,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,3.24,0.0,Cable;VGA,
+1001865,305037 MH HDMI-MINI HDMI 10FT,1383,true,10,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,1.0,0.0,Cable;HDMI,
+1001866,305952 MH USB2.0 DUAL PWR AM-BM,1380,true,6,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;USB,
+1001867,306935 MH DISPLAY PORT M-M 3.3FT,2966,true,13,,,2015-08-01 14:34:27 -0700,2015-08-03 10:32:53 -0700,,false,,true,,"",,,,,,,,,false,"",16.0,6.72,0.0,Cable;DP,
+1001868,307093 MH DISPLAY PORT M-M 10FT,2968,true,3,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,10.15,0.0,Cable;DP,
+1001869,307871 MH DVI-I TO HD15 & 3RCA,2057,true,1,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",19.0,5.35,0.0,Cable;Adapter,
+1001870,318129 INT PATCH CABLE 1.5FT BLU,2400,true,15,,,2015-08-01 14:34:27 -0700,2015-08-01 14:34:27 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.44,0.0,Cable;Ethernet,
+1001871,318228 INT PATCH CABLE 1.5FT GRY,2409,true,3,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.44,0.0,Cable;Ethernet,
+1001872,318921 INT PATCH CABLE 3FT GRY,2410,true,50,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",5.0,0.55,0.0,Cable;Ethernet,
+1001873,318938 INT PATCH CABLE 3FT BLU,2401,true,29,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",5.0,0.55,0.0,Cable;Ethernet,
+1001726,318969 INT PATCH CABLE 3FT YEL,2491,true,34,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623318969,"",,,,,,,,,false,"",5.0,0.55,0.0,Cable;Ethernet,
+1001874,318976 INT PATCH CABLE 7FT GRY,2412,true,20,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",7.0,0.85,0.0,Cable;Ethernet,
+1001875,318983 INT PATCH CABLE 7FT BLU,2403,true,13,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",7.0,0.85,0.0,Cable;Ethernet,
+1001876,319744 INT PATCH CABLE 7FT YEL,2492,true,25,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",7.0,0.85,0.0,Cable;Ethernet,
+1001877,319768 INT PATCH CABLE 10FT GRY,2413,true,42,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.13,0.0,Cable;Ethernet,
+1001878,319775 INT PATCH CABLE 10FT BLU,2404,true,31,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.13,0.0,Cable;Ethernet,
+1001879,319805 INT PATCH CABLE 10FT YEL,2493,true,30,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.13,0.0,Cable;Ethernet,
+1001880,319812 INT PATCH CABLE 14FT GRY,2414,true,28,,,2015-08-01 14:34:28 -0700,2015-08-01 14:34:28 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;Ethernet,
+1001881,319829 INT PATCH CABLE 14FT BLU,2486,true,63,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;Ethernet,
+1001882,319850 INT PATCH CABLE 14FT YEL,2517,true,8,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;Ethernet,
+1001727,319867 INT PATCH CABLE 25FT GRY,2500,true,34,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623319867,"",,,,,,,,,false,"",15.0,2.46,0.0,Cable;Ethernet,
+1001883,319874 INT PATCH CABLE 25FT BLU,2405,true,49,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,2.46,0.0,Cable;Ethernet,
+1001884,319966 INT PATCH CABLE 25FT YEL,2494,true,53,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,2.46,0.0,Cable;Ethernet,
+1001728,319973 INT PATCH CABLE 50FT GRY,2415,true,14,,,2015-08-01 14:34:06 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623319973,"",,,,,,,,,false,"",20.0,5.64,0.0,Cable;Ethernet,
+1001729,319980 INT PATCH CABLE 50FT BLU,2497,true,16,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623319980,"",,,,,,,,,false,"",20.0,5.64,0.0,Cable;Ethernet,
+1001456,32024581 80MIN CDR 52X,4005,true,2,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,034707045811,"",,,,,,,,,false,"",25.0,18.32,0.0,Optical Drive;Media,D&H
+1001457,32025641 4.7GB 16X DVDRW,4004,true,11,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,034707056411,"",,,,,,,,,false,"",29.0,21.05,0.0,Optical Drive;Media,D&H
+1001885,320610 INT PATCH CABLE 50FT YEL,2518,true,10,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,5.64,0.0,Cable;Ethernet,
+1001886,320627 MH PATCH CABLE 100FT GRY,2417,true,2,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,11.08,0.0,Cable;Ethernet,
+1001887,320634 INT PATCH CABLE 100FT BL,2407,true,5,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,11.08,0.0,Cable;Ethernet,
+1001888,320665 INT PATCH CABLE 100FT YEL,2520,true,5,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,11.08,0.0,Cable;Ethernet,
+1001730,320740 INT PATCH CABLE 3FT BLK,4150,true,19,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623320740,"",,,,,,,,,false,"",5.0,0.55,0.0,Cable;Ethernet,D&H
+1001731,320757 INT PATCH CABLE 7FT BLK,4141,true,19,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623320757,"",,,,,,,,,false,"",7.0,0.85,0.0,Cable;Ethernet,D&H
+1001732,320764 INT PATCH CABLE 10FT BLK,4142,true,28,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623320764,"",,,,,,,,,false,"",8.0,1.13,0.0,Cable;Ethernet,D&H
+1001733,320771 INT PATCH CABLE 14FT BLK,4146,true,26,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623320771,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;Ethernet,D&H
+1001734,320788 INT PATCH CABLE 25FT BLK,4145,true,34,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623320788,"",,,,,,,,,false,"",15.0,2.64,0.0,Cable;Ethernet,
+1001889,320795 INT PATCH CABLE 50FT BLK,4485,true,10,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,5.64,0.0,Cable;Ethernet,
+1001890,322355 MH SWIVEL HDMI ADAPTER,2211,true,6,,,2015-08-01 14:34:29 -0700,2015-08-01 14:34:29 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,4.38,0.0,Cable;HDMI,
+1001891,322430 MH USB3.0 AM-BM 6.6FT,3293,true,8,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",12.0,4.15,0.0,Cable;USB,
+1001892,322454 MH USB3.0 AM-BM 10FT,1371,true,4,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,5.2,0.0,Cable;USB,
+1001893,325165 INT PATCH CABLE 1.5FT YEL,3599,true,8,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.44,0.0,Cable;Ethernet,
+1001894,336628 INT PATCH CABLE 5FT GRY,3598,true,35,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,0.7,0.0,Cable;Ethernet,
+1001895,338288 INT PATCH CABLE 7FT ORG,2488,true,31,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",7.0,0.85,0.0,Cable;Ethernet,
+1001896,338295 INT PATCH CABLE 10FT ORG,2489,true,19,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.13,0.0,Cable;Ethernet,
+1001897,338301 INT PATCH CABLE 14FT ORG,2490,true,61,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,1.5,0.0,Cable;Ethernet,
+1001898,338318 INT PATCH CABLE 25FT ORG,2623,true,20,,,2015-08-01 14:34:30 -0700,2015-08-01 14:34:30 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,2.46,0.0,Cable;Ethernet,
+1001899,338325 INT PATCH CABLE 50FT ORG,2495,true,9,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,5.64,0.0,Cable;Ethernet,
+1001900,338332 INT PATCH CABLE 100FT ORG,2512,true,3,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,11.08,0.0,Cable;Ethernet,
+1001901,338387 INT PATCH CABLE 5FT BK,4484,true,19,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,0.7,0.0,Cable;Ethernet,
+1001902,338400 INT PATCH CABLE 5FT BLU,3600,true,20,,,2015-08-01 14:34:31 -0700,2015-08-03 12:36:56 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,0.7,0.0,Cable;Ethernet,
+1001735,338424 INT PATCH CABLE 5FT YEL,2516,true,60,,,2015-08-01 14:34:07 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623338424,"",,,,,,,,,false,"",6.0,0.7,0.0,Cable;Ethernet,
+1001903,338431 INT PATCH CABLE 5FT ORG,2510,true,24,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,0.7,0.0,Cable;Ethernet,
+1001904,338455 INT PATCH CABLE 3FT ORG,2487,true,37,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",5.0,0.55,0.0,Cable;Ethernet,
+1001905,341509 INT PATCH CABLE 1.5FT ORG,2622,true,22,,,2015-08-01 14:34:31 -0700,2015-08-01 14:34:31 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.44,0.0,Cable;Ethernet,
+1001906,345590 INT PATCH CABLE .5FT GRY,2408,true,81,,,2015-08-01 14:34:32 -0700,2015-08-01 16:53:38 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.31,0.0,Cable;Ethernet,
+1001907,347334 INT PATCH CABLE .5FT ORG,2509,true,66,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.31,0.0,Cable;Ethernet,
+1001908,347341 INT PATCH CABLE .5FT YEL,2514,true,76,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.31,0.0,Cable;Ethernet,
+1001909,347365 INT PATCH CABLE .5FT BLU,2399,true,69,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.31,0.0,Cable;Ethernet,
+1001910,347464 INT PATCH CABLE 1FT ORG,2621,true,82,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.38,0.0,Cable;Ethernet,
+1001911,347471 INT PATCH CABLE 1FT YEL,2515,true,61,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.38,0.0,Cable;Ethernet,
+1001912,347495 INT PATCH CABLE 1FT BLU,2496,true,44,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,0.38,0.0,Cable;Ethernet,
+1001913,352697 MH 3.5MM M-2F CONTROLS,4405,true,5,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,4.46,0.0,Cable;Audio,
+1001914,352703 MH 6FT AM-MICBM BLU-YEL,4384,true,9,,,2015-08-01 14:34:32 -0700,2015-08-01 14:34:32 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.82,0.0,Cable;USB,
+1001915,352727 MH 6FT AM-MICBM BLU-ORG,4385,true,7,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.82,0.0,Cable;USB,
+1001916,352741 MH 6FT AM-MICBM PUR-PINK,4386,true,5,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.82,0.0,Cable;USB,
+1001917,352789 MH 3FT BLU-YEL,4376,true,10,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.16,0.0,Cable;USB,
+1001918,352796 MH 6FT BLU-YEL,4377,true,10,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.51,0.0,Cable;USB,
+1001919,352802 MH 3FT BLU-ORG,4378,true,6,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.16,0.0,Cable;USB,
+1001920,352819 MH 6FT BLU-ORG,4381,true,9,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.51,0.0,Cable;USB,
+1001921,352826 MH 3FT PUR-PINK,4379,true,8,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.16,0.0,Cable;USB,
+1001922,352833 MH 6FT PUR-PINK,4382,true,9,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.51,0.0,Cable;USB,
+1001923,352840 MH 3FT BLK-GRN,4380,true,9,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.16,0.0,Cable;USB,
+1001924,352857 MH 6FT BLK-GRN,4383,true,6,,,2015-08-01 14:34:33 -0700,2015-08-01 14:34:33 -0700,,false,,true,,"",,,,,,,,,false,"",6.0,1.51,0.0,Cable;USB,
+1001926,352864 MH 10FT 3.5MM M-2F,4406,true,5,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",12.0,6.69,0.0,Cable;Audio,
+1001586,35FCREADBK3,4095,true,3,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030851121,"",,,,,,,,,false,"",25.0,14.0,0.0,USB Devices,D&H
+1001736,390859 MH INT SATA LP4/SATA,2394,true,4,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623390859,"",,,,,,,,,false,"",10.0,2.0,0.0,Cable;SATA,
+1001927,391207 MH ESATA M-M 40IN,2395,true,4,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",16.0,3.9,0.0,Cable;SATA,
+1001928,392051 INT PATCH CABLE 10FT GRY,2300,true,16,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.3,0.0,Cable;Ethernet,
+1001929,393966 MHB LIGHTING 3FT,4491,true,5,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",19.0,9.18,0.0,Cable;Misc,
+1001930,402439 INT HINGED WALL BRACKET,2569,true,2,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,10.35,0.0,Network;Wired,
+1001703,40406 3FT 3.5MM STEREO M/F,4247,true,5,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,757120404064,"",,,,,,,,,false,"",4.0,1.55,0.0,Cable;Audio,D&H
+1001704,40408 12FT 3.5MM STEREO M/F,4248,true,6,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:37 -0700,,false,,true,757120404088,"",,,,,,,,,false,"",8.0,2.14,0.0,Cable;Audio,D&H
+1001705,40414 12FT 3.5 AUDIO,4047,true,5,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:37 -0700,,false,,true,757120404149,"",,,,,,,,,false,"",9.0,3.0,0.0,Cable;Audio,D&H
+1001738,407489 USB TRAVEL CHARGER,1204,true,13,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623407489,"",,,,,,,,,false,"",12.0,3.25,0.0,USB Devices,
+1001931,411103 MH DUAL USB 10KmAh BAT,4409,true,3,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,23.4,0.0,Battery,
+1001932,420815 MH LCD POLE 4 LCD 2 HINGE,1955,true,3,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",179.0,115.9,0.0,Monitor;Mount,
+1001933,421010 MH LCD CLEANER,874,true,11,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,2.71,0.0,Miscellaneous,
+1001706,42220 RP-SMA PLUG - N-MALE,3238,true,7,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:38 -0700,,false,,true,757120422204,"",,,,,,,,,false,"",19.0,5.79,0.0,Network;Wireless,Amazon
+1001707,42221 RP-SMA PLUG - RP-TNC JACK,3237,true,7,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:38 -0700,,false,,true,757120422211,"",,,,,,,,,false,"",19.0,5.55,0.0,Network;Wireless,Amazon
+1001934,439664 MH ZIPP BACKPACK BLK-BLK,4391,true,3,,,2015-08-01 14:34:34 -0700,2015-08-01 14:34:34 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,27.29,0.0,Laptop Bag,
+1001935,439671 MH ZIPP BACKPACK ORG-BLK,4388,true,2,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,27.29,0.0,Laptop Bag,
+1001936,439688 MH ZIPP BACKPACK BLU-BLK,4389,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,27.29,0.0,Laptop Bag,
+1001937,439695 MH ZIPP BACKPACK GRN-BLK,4390,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,27.29,0.0,Laptop Bag,
+1001938,439701 MH AIRPACK BAG BLK-PLUM,4394,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,23.39,0.0,Laptop Bag,
+1001939,439718 MH AIRPACK BAG BLK-BLU,4392,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,23.39,0.0,Laptop Bag,
+1001940,439725 MH AIRPACK BAG BLK-RED,4393,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,23.39,0.0,Laptop Bag,
+1001941,500425 INT ANT CBL N TO RPSMA 1F,3297,true,5,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",19.0,8.5,0.0,Cable;Misc,
+1001942,503785 INT ANTENNA GRID OUTDOOR,2033,true,2,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",230.0,115.0,0.0,Network;Wireless,
+1001739,510424 USB2.0 ACTIVE USB 36FT,4131,true,0,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623510424,"",,,,,,,,,false,"",29.0,10.92,0.0,Cable;USB,D&H
+1001943,513579 INT 48PT UTP CAT5E PATCH,2568,true,2,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",89.0,48.75,0.0,Network;Wired,
+1001944,515016 MH PC EXPRESS FIREWIRE 2P,1369,true,3,,,2015-08-01 14:34:35 -0700,2015-08-01 14:34:35 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,33.62,0.0,Miscellaneous,
+1001945,517867 INT WALLBOX 1.45 WHITE,2565,true,5,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",2.0,0.76,0.0,Network;Wired,
+1001946,517874 INT WALLBOX 1.89 WHITE,2566,true,4,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,1.35,0.0,Network;Wired,
+1001740,521413 INT ANTENNA OMNI 8DBI,2590,true,3,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623521413,"",,,,,,,,,false,"",69.0,33.5,0.0,Network;Wireless,
+1001947,522144 INT ANT CABLE LMR200,2593,true,10,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,10.95,0.0,Network;Wireless,
+1001948,522175 INT ANT N-RSMA LMR200,1393,true,1,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,15.8,0.0,Cable;Misc,
+1001949,524025 INT ANT DB CEILING 4DBI,1392,true,3,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,26.65,0.0,Network;Wireless,
+1001950,524711 INT WLS 300N OUTDOOR AP,4490,true,2,,,2015-08-01 14:34:36 -0700,2015-08-01 14:34:36 -0700,,false,,true,,"",,,,,,,,,false,"",199.0,152.0,0.0,Network;Wireless,
+1001951,524827 INT GUEST GATE MKII,2672,true,1,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",249.0,169.0,0.0,Network;Wireless,
+1001952,525480 MH WIRELESS 1200AC GIG,4401,true,2,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",119.0,77.34,0.0,Network;Wireless,
+1001953,525602 MH WIRELESS 600AC USB,4400,true,5,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,22.1,0.0,Network;Wireless,
+1001954,525695 MH WRLS 750AC RE,4488,true,3,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",59.0,38.55,0.0,Network;Wireless,
+1001498,6FT 1394_94_6,473,true,1,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030800174,"",,,,,,,,,false,"",18.0,9.5,0.0,Cable;Misc,
+1001955,771078 INT WP WHITE 2 OUTLET 5P,2563,true,7,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",5.0,2.25,0.0,Network;Wired,
+1001956,771092 INT WP WHITE 4 OUTLET 5P,2570,true,9,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",5.0,2.25,0.0,Network;Wired,
+1001957,790284 INT ANT N-TYPE M/M,1394,true,1,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,10.65,0.0,Cable;Misc,
+1001741,790338 INT 2T2R MIMO DIR ANT,3126,true,1,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623790338,"",,,,,,,,,false,"",99.0,63.5,0.0,Network;Wireless,
+1001958,790406 INT ANTENNA CABLE,3127,true,3,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",18.0,10.25,0.0,Cable;Misc,
+1001959,AC19V150,3192,true,0,,,2015-08-01 14:34:37 -0700,2015-08-01 14:34:37 -0700,,false,,true,,"",,,,,,,,,false,"",109.0,72.0,0.0,Power Supply;Laptop,Dr Battery
+1001960,AC19V40 NOTEBOOK EEEPC UNI,2635,true,0,,,2015-08-01 14:34:38 -0700,2015-08-01 14:34:38 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,19.25,0.0,Power Supply;Laptop,Dr Battery
+1001961,AC19V90C,3226,true,0,,,2015-08-01 14:34:38 -0700,2015-08-01 14:34:38 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,36.0,0.0,Power Supply;Laptop,Dr Battery
+1001962,AC19V90K1,3160,true,0,,,2015-08-01 14:34:38 -0700,2015-08-01 14:34:38 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,36.38,0.0,Power Supply;Laptop,Dr Battery
+1001963,AC19V90K3,2360,true,0,,,2015-08-01 14:34:38 -0700,2015-08-01 14:34:38 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,36.38,0.0,Power Supply;Laptop,Dr Battery
+1001842,ACER VERITON VM4630GI7477X,3905,true,4,,,2015-08-01 14:34:24 -0700,2015-08-06 00:11:46 -0700,,false,,true,887899276378,"",,,,,,,,,false,"",979.0,742.3,0.0,Computer;Desktop,D&H
+1001841,ACER VERITON VX4630GI7477X,4073,true,2,,,2015-08-01 14:34:24 -0700,2015-08-06 00:11:46 -0700,,false,,true,887899276330,"",,,,,,,,,false,"",929.0,738.84,0.0,Computer;Desktop,D&H
+1001965,After Hours Service 1 Hour,801,false,0,,,2015-08-01 14:34:38 -0700,2015-08-01 14:34:38 -0700,,false,,true,,"",,,,,,,,,false,"",125.0,0.0,0.0,Service,
+1001966,ANTEC 650W TRUE POWER GOLD,4324,true,2,,,2015-08-01 14:34:38 -0700,2015-08-03 11:58:20 -0700,,false,,true,,"",,,,,,,,,false,"",129.0,86.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001967,ANTEC 850W HCP,3844,true,3,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",289.0,193.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001968,ANTEC EA550W 80+ BRONZE PSU,4432,true,5,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",99.0,62.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001969,ANTEC EARTHWATTS 650W PSU,1577,true,7,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",119.0,68.0,0.0,Power Supply;Desktop,
+1006173,ANTEC EARTHWATTS 750W PLATINUM,EA750P,true,3,,,2015-08-05 20:39:29 -0700,2015-08-06 00:11:38 -0700,,false,1,true,761345277709,"",,,,,1,,,,false,"",159.0,102.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001970,ANTEC HCG-400 400W PSU,3082,true,1,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",119.0,68.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1006175,ANTEC HIGH CURRENT PLATINUM 1000W,HCP1000 PLATINUM,true,1,,,2015-08-05 20:41:46 -0700,2015-08-06 00:11:38 -0700,,false,1,true,761345239127,"",,,,,1,,,,false,"",269.0,196.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001708,ANTEC KHULER 650,4465,true,1,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:38 -0700,,false,,true,761345771856,"",,,,,,,,,false,"",89.0,59.09,0.0,Fan,D&H
+1001971,ANTEC VP-450 450W 120MM PSU,3232,true,4,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",59.0,33.0,0.0,Power Supply;Desktop,MA Laboratories Inc
+1001972,ASUS 16X BLURAY WRITER,4082,true,1,,,2015-08-01 14:34:39 -0700,2015-08-03 12:05:51 -0700,,false,,true,,"",,,,,,,,,false,"",139.0,90.0,0.0,Optical Drive;Internal,MA Laboratories Inc
+1001973,ASUS AS-N55JK74 15.6 I7-4710,4222,true,1,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",1659.0,1275.0,0.0,Computer;Laptop,D&H
+1001974,ASUS AS-P50LA51 15.6 I5-4210U,4221,true,6,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",959.0,705.0,0.0,Computer;Laptop,D&H
+1001975,ASUS AS-V451L51 14 I5-4200U 6G,4100,true,2,,,2015-08-01 14:34:39 -0700,2015-08-01 14:34:39 -0700,,false,,true,,"",,,,,,,,,false,"",869.0,639.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001976,ASUS F1A75-V PRO FM1 A8,3062,true,1,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",189.0,150.0,0.0,Motherboard,MA Laboratories Inc
+1001977,ASUS G501JWDS71 15.6 I7,4480,true,1,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",1859.0,1579.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001978,ASUS G55JWS1 15.6 I7 16GB,4428,true,1,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",1339.0,995.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001979,ASUS G751JL7 17.3 I7 16GB,4429,true,1,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",1679.0,1259.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001839,ASUS PA279Q 27 PRO LED LCD,4091,true,1,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,886227459377,"",,,,,,,,,false,"",999.0,769.55,0.0,Monitor,D&H
+1001838,ASUS PB278Q 27 PLS LED WQHD,3880,true,1,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,886227236565,"",,,,,,,,,false,"",779.0,546.47,0.0,Monitor,D&H
+1001980,ASUS R55451T 15.6 I5-4210U,4497,true,2,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",699.0,520.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001981,ASUS T100C1R 10.1 2GB 64GB,4327,true,2,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",489.0,369.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001982,ASUS TP50L51 15.6 I5-4210U,4328,true,2,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",889.0,659.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001983,ASUS VE247H 23.6 LCD WIDE DVI/H,3604,true,1,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",289.0,159.0,0.0,Monitor,MA Laboratories Inc
+1001657,ASUS VS228HP 21.5 LED WIDE LCD,1411,true,8,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:34 -0700,,false,,true,610839367177,"",,,,,,,,,false,"",199.0,128.75,0.0,Monitor,MA Laboratories Inc
+1001659,ASUS VS247HP 23.6 WD LED HDMI,3158,true,7,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:35 -0700,,false,,true,610839380862,"",,,,,,,,,false,"",249.0,157.0,0.0,Monitor,MA Laboratories Inc
+1001984,ASUS X550JXDB71 15.6 I7-4720U,4498,true,2,,,2015-08-01 14:34:40 -0700,2015-08-01 14:34:40 -0700,,false,,true,,"",,,,,,,,,false,"",1099.0,819.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001985,ASUS X755JS7 17.3 I7-4712M 8GB,4413,true,1,,,2015-08-01 14:34:41 -0700,2015-08-01 14:34:41 -0700,,false,,true,,"",,,,,,,,,false,"",1059.0,769.0,0.0,Computer;Laptop,MA Laboratories Inc
+1001986,ASUS XONAR DGX 5.1 PCIE SOUND,4483,true,1,,,2015-08-01 14:34:41 -0700,2015-08-01 14:34:41 -0700,,false,,true,,"",,,,,,,,,false,"",59.0,36.0,0.0,Sound Card;PCIE,MA Laboratories Inc
+1001658,ASUS XONAR U3 MOBILE SOUNDCARD,3100,true,4,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:35 -0700,,false,,true,610839371259,"",,,,,,,,,false,"",49.0,36.5,0.0,Sound Card;USB,MA Laboratories Inc
+1001987,ASUS XONAR U7 7.1 USB SOUND,4426,true,2,,,2015-08-01 14:34:41 -0700,2015-08-01 14:34:41 -0700,,false,,true,,"",,,,,,,,,false,"",129.0,85.0,0.0,Sound Card;USB,MA Laboratories Inc
+1001988,ASUS Z97-EU3,4472,true,1,,,2015-08-01 14:34:41 -0700,2015-08-06 00:11:46 -0700,,false,,true,889349007785,"",,,,,,,,,false,"",189.0,125.0,0.0,Motherboard,MA Laboratories Inc
+1006164,ASUS Z97KCSM,Z97K-CSM,true,2,,,2015-08-05 20:10:29 -0700,2015-08-06 00:11:45 -0700,,false,1,true,886227759484,"",,,,,1,,,,false,"",169.0,115.0,0.0,Motherboard,MA Laboratories Inc
+1001989,ASUS Z97M-PLUS,4373,true,0,,,2015-08-01 14:34:41 -0700,2015-08-03 11:58:19 -0700,,false,,true,,"",,,,,,,,,false,"",179.0,120.0,0.0,Motherboard,MA Laboratories Inc
+1001990,ASUS Z97-PRO USB3.1,4419,true,1,,,2015-08-01 14:34:41 -0700,2015-08-06 00:11:46 -0700,,false,,true,889349001400,"",,,,,,,,,false,"",299.0,205.0,0.0,Motherboard,MA Laboratories Inc
+1001822,ATDEC IPAD FLEXIBLE DESK MOUNT,3705,true,1,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,881493007703,"",,,,,,,,,false,"",49.0,33.0,0.0,Monitor;Mount,D&H
+1001507,ATX2024FM,1414,true,2,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030806299,"",,,,,,,,,false,"",9.0,0.0,0.0,Cable;Power,
+1001469,BRACKET,569,true,5,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030777155,"",,,,,,,,,false,"",5.0,1.89,0.0,Hard Drive;Bracket,
+1001536,BRACKET25SAT 2.5 TO 3.5,3364,true,13,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030831093,"",,,,,,,,,false,"",15.0,6.28,0.0,Hard Drive;Bracket,D&H
+1001700,BUFFALO WLE-LNC ADAPTER,559,true,3,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,747464107844,"",,,,,,,,,false,"",38.0,25.0,0.0,Network;Wireless,
+1001844,BUFFALO WLE-RMC ANTENNA CONN,551,true,1,,,2015-08-01 14:34:24 -0700,2015-08-01 14:34:24 -0700,,false,,true,4981254409763,"",,,,,,,,,false,"",16.0,10.0,0.0,Network;Wireless,
+1001699,BXTS13X INTEL LIQUID,3840,true,2,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,735858263368,"",,,,,,,,,false,"",99.0,77.29,0.0,Fan,D&H
+1001538,C6CROSSOVER,3947,true,10,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030831970,"",,,,,,,,,false,"",12.0,6.67,0.0,Cable;Ethernet,D&H
+1001684,CA84 USB AC ADAPTER/CHARGER,3274,true,4,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,716829850848,"",,,,,,,,,false,"",12.0,7.0,0.0,USB Devices,D&H
+1001991,CD OR DVD BURNED,1724,false,0,,,2015-08-01 14:34:41 -0700,2015-08-01 14:34:41 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,0.0,0.0,Service,
+1001816,CM 120MM4IN1SLEEVE,4172,true,1,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,870423003748,"",,,,,,,,,false,"",25.0,9.81,0.0,Fan,D&H
+1001828,CM SGC2100KWN1 SCOUT2,3484,true,2,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:44 -0700,,false,,true,884102019036,"",,,,,,,,,false,"",149.0,88.03,0.0,Case,D&H
+1001992,CM SKORPION SGA2000BKNX0,4173,true,8,,,2015-08-01 14:34:41 -0700,2015-08-01 14:34:41 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,15.73,0.0,Peripheral;Mouse,D&H
+1001455,COFFEECUP INVERTER/USB 200W,1528,true,5,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,027005903099,"",,,,,,,,,false,"",39.0,23.59,0.0,Power Supply;Other,D&H
+1001993,Computer Build Labor,3457,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",80.0,0.0,0.0,Service,
+1001817,COOLERMASTER 140MM BLUE LED FAN,3593,true,4,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,870423003779,"",,,,,,,,,false,"",14.0,7.14,0.0,Fan,D&H
+1001827,COOLERMASTER 200MM R4MFJR07FKR1,3787,true,3,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:44 -0700,,false,,true,884102011450,"",,,,,,,,,false,"",19.0,10.9,0.0,Fan,D&H
+1001826,COOLERMASTER HAF912 ATX BK,2671,true,6,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:44 -0700,,false,,true,884102009877,"",,,,,,,,,false,"",89.0,50.0,0.0,Case,MA Laboratories Inc
+1001830,COOLERMASTER HAF XB II EVO BK,3912,true,1,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:45 -0700,,false,,true,884102025242,"",,,,,,,,,false,"",179.0,81.85,0.0,Case,MA Laboratories Inc
+1001832,COOLER MASTER STACKER 915F,4097,true,3,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:45 -0700,,false,,true,884102025266,"",,,,,,,,,false,"",89.0,63.34,0.0,Case,
+1001831,COOLER MASTER STACKER 915R,4096,true,3,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:45 -0700,,false,,true,884102025259,"",,,,,,,,,false,"",89.0,63.34,0.0,Case,D&H
+1001829,COOLER MASTER STACKER 935 TOWER,4098,true,2,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:45 -0700,,false,,true,884102025228,"",,,,,,,,,false,"",239.0,153.6,0.0,Case,D&H
+1001763,CORSAIR 128GB SLIDER USB3.0,4149,true,3,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591042178,"",,,,,,,,,false,"",89.0,43.99,0.0,USB Devices;Flash Drive,D&H
+1001759,CORSAIR 16GB STEALTH USB3.0,4125,true,1,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591022613,"",,,,,,,,,false,"",39.0,22.98,0.0,USB Devices;Flash Drive,D&H
+1001756,CORSAIR 16GB USB3.0 SURVIVOR,3445,true,5,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,843591014533,"",,,,,,,,,false,"",39.0,23.55,0.0,USB Devices;Flash Drive,D&H
+1001764,CORSAIR 16GB VOYAGER GO USB3.0,4135,true,5,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591047814,"",,,,,,,,,false,"",29.0,15.84,0.0,USB Devices;Flash Drive,D&H
+1001761,CORSAIR 16GB VOYAGER SLIDER,3965,true,1,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591040518,"",,,,,,,,,false,"",19.0,11.99,0.0,USB Devices;Flash Drive,D&H
+1001845,CORSAIR 32GB CAPLESS,3963,true,5,,,2015-08-01 14:34:24 -0700,2015-08-01 14:34:24 -0700,,false,,true,8435910405332,"",,,,,,,,,false,"",39.0,13.99,0.0,USB Devices;Flash Drive,D&H
+1001758,CORSAIR 32GB USB3.0 FLASH,1189,true,5,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591020367,"",,,,,,,,,false,"",59.0,34.81,0.0,USB Devices;Flash Drive,D&H
+1001765,CORSAIR 32GB VOYAGER GO USB3.0,4134,true,5,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591047821,"",,,,,,,,,false,"",39.0,24.03,0.0,USB Devices;Flash Drive,D&H
+1001760,CORSAIR 64GB MINI3 USB3.0,4133,true,1,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591039321,"",,,,,,,,,false,"",59.0,32.39,0.0,USB Devices;Flash Drive,D&H
+1001762,CORSAIR 64GB SLIDER USB3.0,4136,true,2,,,2015-08-01 14:34:11 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591040556,"",,,,,,,,,false,"",49.0,31.05,0.0,USB Devices;Flash Drive,D&H
+1001757,CORSAIR 64GB USB3.0 SURVIVOR,3517,true,4,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,843591015326,"",,,,,,,,,false,"",79.0,55.06,0.0,USB Devices;Flash Drive,D&H
+1001766,CORSAIR 64GB VOYAGER GO USB3.0,4129,true,5,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,843591047838,"",,,,,,,,,false,"",59.0,37.61,0.0,USB Devices;Flash Drive,D&H
+1001464,CREATIVE TACTIC3D FURY HEADSET,4445,true,2,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,054651184541,"",,,,,,,,,false,"",59.0,40.5,0.0,Peripheral;Headset,D&H
+1001465,CREATIVE TACTIC3D RAGE WRL V2.0,4440,true,0,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,054651187719,"",,,,,,,,,false,"",109.0,72.0,0.0,Peripheral;Headset,D&H
+1001994,CUSTOM BUILT DISPLAY COMPUTER,1412,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Computer;Custom,
+1001995,CUSTOM LENGTH CAT5 RJ45 CABLE,841,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Cable;Ethernet,
+1001663,CVL1084 USB DESKTOP MICROPHONE,4193,true,6,,,2015-08-01 14:33:57 -0700,2015-08-06 00:11:35 -0700,,false,,true,646422104201,"",,,,,,,,,false,"",25.0,15.32,0.0,Peripheral;Microphone,D&H
+1001666,CYBERPOWER 1000VA UPS,1582,true,13,,,2015-08-01 14:33:57 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532010042,"",,,,,,,,,false,"",159.0,97.97,0.0,Battery;UPS,D&H
+1001667,CYBERPOWER 1200VA CP1200AVR,4183,true,6,,,2015-08-01 14:33:57 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532012008,"",,,,,,,,,false,"",169.0,114.42,0.0,Battery;UPS,D&H
+1001675,CYBERPOWER 1350VA UPS,1583,true,5,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:35 -0700,,false,,true,659532013500,"",,,,,,,,,false,"",179.0,113.65,0.0,Battery;UPS,D&H
+1001668,CYBERPOWER 1500VA UPS,1584,true,4,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532015269,"",,,,,,,,,false,"",199.0,124.43,0.0,Battery;UPS,D&H
+1001664,CYBERPOWER 550VA 330W UPS,4461,true,5,,,2015-08-01 14:33:57 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532005598,"",,,,,,,,,false,"",79.0,45.83,0.0,Battery;UPS,D&H
+1001665,CYBERPOWER 685VA 390W UPS AVR,3884,true,10,,,2015-08-01 14:33:57 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532006854,"",,,,,,,,,false,"",99.0,60.3,0.0,Battery;UPS,D&H
+1001669,CYBERPOWER 825VA 450W UPS,2479,true,2,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532108251,"",,,,,,,,,false,"",129.0,83.62,0.0,Battery;UPS,D&H
+1001673,CYBERPOWER CP425SLG 425VA UPS,4463,true,5,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532609475,"",,,,,,,,,false,"",59.0,39.79,0.0,Battery;UPS,D&H
+1001670,CYBERPOWER CP750LCD,4460,true,8,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532601646,"",,,,,,,,,false,"",99.0,68.5,0.0,Battery;UPS,D&H
+1001671,CYBERPOWER CSP606T SURGE PROT,4182,true,3,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532603572,"",,,,,,,,,false,"",15.0,8.38,0.0,Power Supply;Other,D&H
+1001672,CYBERPOWER CSP806T SURGE PROT,4179,true,1,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,649532603619,"",,,,,,,,,false,"",25.0,16.36,0.0,Power Supply;Other,D&H
+1001996,Data Migration,742,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,0.0,0.0,Service,
+1001998,Data Recovery 1/2 Hour,80,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,0.0,0.0,Service,
+1001999,Data Recovery 1/4 Hour,81,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,0.0,0.0,Service,
+1001997,Data Recovery 1 Hour,79,false,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",60.0,0.0,0.0,Service,
+1003974,Deposit,Deposit,false,0,,,2015-08-03 17:38:04 -0700,2015-08-06 00:11:49 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Deposit,
+1001532,DISPLPORT10,3943,true,19,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030827829,"",,,,,,,,,false,"",29.0,15.01,0.0,Cable;DP,D&H
+1001537,DISPLPORT15L,4040,true,11,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030831642,"",,,,,,,,,false,"",35.0,21.61,0.0,Cable;DP,D&H
+1001531,DISPLPORT6L,3953,true,2,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030827812,"",,,,,,,,,false,"",19.0,11.86,0.0,Cable;DP,D&H
+1001745,DLINK 1024D 24PT GIGA SWITCH,1504,true,3,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,790069268298,"",,,,,,,,,false,"",269.0,143.46,0.0,Network;Wired,MA Laboratories Inc
+1001746,DLINK DGS-110008P,4464,true,2,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,790069387272,"",,,,,,,,,false,"",199.0,143.46,0.0,Network;Wired,D&H
+1001539,DP2HDMIADAP DISPLAYPORT TO HDMI,3508,true,14,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030832427,"",,,,,,,,,false,"",19.0,12.18,0.0,Cable;Adapter,D&H
+1002000,DR19V474K1,3282,true,0,,,2015-08-01 14:34:42 -0700,2015-08-01 14:34:42 -0700,,false,,true,,"",,,,,,,,,false,"",89.0,58.0,0.0,Power Supply;Laptop,Dr Battery
+1002001,DR19V474K3,3281,true,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",79.0,53.0,0.0,Power Supply;Laptop,Dr Battery
+1002002,DR19V474T,3227,true,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,42.5,0.0,Power Supply;Laptop,Dr Battery
+1002003,DR19V474U,3228,true,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,42.5,0.0,Power Supply;Laptop,Dr Battery
+1002004,Drive Savers Data Recovery,844,false,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Service,
+1001502,DVIDDMM10,1359,true,9,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030802796,"",,,,,,,,,false,"",20.0,8.46,0.0,Cable;DVI,D&H
+1001503,DVIDDMM15,1483,true,13,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030802826,"",,,,,,,,,false,"",25.0,14.46,0.0,Cable;DVI,
+1001508,DVIDDMM20,673,true,10,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030808569,"",,,,,,,,,false,"",30.0,19.23,0.0,Cable;DVI,
+1001535,DVIDDMM3,3885,true,10,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030830959,"",,,,,,,,,false,"",12.0,7.08,0.0,Cable;DVI,D&H
+1002005,DVIDDMM50,1849,true,2,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",85.0,59.05,0.0,Cable;DVI,
+1001501,DVIDDMM6,721,true,11,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030802789,"",,,,,,,,,false,"",15.0,7.29,0.0,Cable;DVI,
+1001485,DVIVGAMF,208,true,8,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030787598,"",,,,,,,,,false,"",14.0,3.93,0.0,Cable;Adapter,
+1001540,DVIVGAMM10,3513,true,14,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030833509,"",,,,,,,,,false,"",16.0,8.75,0.0,Cable;DVI,D&H
+1001548,EC13942A2 EXPRESSCARD FIREWIRE,2982,true,2,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030839433,"",,,,,,,,,false,"",49.0,32.76,0.0,Miscellaneous,D&H
+1001460,ECR2032BP,4437,true,35,,,2015-08-01 14:33:27 -0700,2015-08-06 00:11:25 -0700,,false,,true,039800088635,"",,,,,,,,,false,"",5.0,1.08,0.0,Battery,D&H
+1002007,Emergency Service 1/2 Hour,745,false,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",62.5,0.0,0.0,Service,
+1002008,Emergency Service 1/4 Hour,746,false,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",31.25,0.0,0.0,Service,
+1002006,Emergency Service 1 Hour,744,false,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",150.0,0.0,0.0,Service,
+1001449,ERGOTRON NOTEBOOK TRAY ARM MNT,4020,true,5,,,2015-08-01 14:33:25 -0700,2015-08-06 00:11:25 -0700,,false,,true,006988330061,"",,,,,,,,,false,"",49.0,34.43,0.0,Monitor;Mount,Amazon
+1002009,ESET NOD32 Antivirus,3394,false,0,,,2015-08-01 14:34:43 -0700,2015-08-01 14:34:43 -0700,,false,,true,,"",,,,,,,,,false,"",40.0,0.0,0.0,Software;Anti-Virus,
+1002010,EVGA GT730 DDR3 2GB LP,4473,true,3,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",79.0,58.0,0.0,Video Card;PCIE,MA Laboratories Inc
+1002011,EVGA GT740 SC 4GB GDDR5,4204,true,1,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",149.0,115.0,0.0,Video Card;PCIE,MA Laboratories Inc
+1002012,EVGA GTX750TI SC 2GB DDR5,4008,true,3,,,2015-08-01 14:34:44 -0700,2015-08-06 00:11:40 -0700,,false,,true,843368027926,"",,,,,,,,,false,"",209.0,141.67,0.0,Video Card;PCIE,MA Laboratories Inc
+1002013,EVGA GTX960 4GB SC PCIE,4431,true,2,,,2015-08-01 14:34:44 -0700,2015-08-06 00:11:40 -0700,,false,,true,843368034382,"",,,,,,,,,false,"",289.0,238.0,0.0,Video Card;PCIE,MA Laboratories Inc
+1002014,EVGA GTX970 ACX 4GB GDDR5,4261,true,2,,,2015-08-01 14:34:44 -0700,2015-08-06 00:11:40 -0700,,false,,true,843368032982,"",,,,,,,,,false,"",429.0,340.0,0.0,Video Card;PCIE,MA Laboratories Inc
+1006167,EVGA GTX980TI 6GB GDDR5,EV-980TI-R,true,1,,,2015-08-05 20:18:01 -0700,2015-08-06 00:11:40 -0700,,false,1,true,843368036416,"",,,,,1,,,,false,"",749.0,635.0,0.0,Video Card;PCIE,MA Laboratories Inc
+1001463,EVO USB HEADSET GH026000002,3852,true,2,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,054651184084,"",,,,,,,,,false,"",169.0,109.1,0.0,Peripheral;Headset,D&H
+1002016,Expedited Onsite Rate 1/2 Hour,77,false,0,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",62.5,0.0,0.0,Service,
+1002017,Expedited Onsite Rate 1/4 Hour,78,false,0,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",31.25,0.0,0.0,Service,
+1002015,Expedited Onsite Rate 1 Hour,76,false,0,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",125.0,0.0,0.0,Service,
+1002019,Expedited Shop Rate 1/2 Hour,68,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",50.0,0.0,0.0,Service,
+1002020,Expedited Shop Rate 1/4 Hour,67,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",25.0,0.0,0.0,Service,
+1002018,Expedited Shop Rate 1 Hour,69,false,0,,,2015-08-01 14:34:44 -0700,2015-08-01 14:34:44 -0700,,false,,true,,"",,,,,,,,,false,"",100.0,0.0,0.0,Service,
+1001697,EXPI9400PTBLK GIGABIT NETWORK,3480,true,1,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,735858175395,"",,,,,,,,,false,"",99.0,73.51,0.0,Network;Wired,D&H
+1002022,Extensive Virus/Spyware 1/2 HR,83,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",30.0,0.0,0.0,Service,
+1002023,Extensive Virus/Spyware 1/4 HR,84,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,0.0,0.0,Service,
+1002021,Extensive Virus/Spyware 1 HR,82,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",60.0,0.0,0.0,Service,
+1001833,EZ FIT PRO DUAL 2.5-3.5 SSD,4140,true,11,,,2015-08-01 14:34:22 -0700,2015-08-06 00:11:45 -0700,,false,,true,884826001638,"",,,,,,,,,false,"",15.0,8.0,0.0,Hard Drive;Bracket,D&H
+1001484,FAN5X15TX3,1147,true,11,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030786607,"",,,,,,,,,false,"",10.0,4.1,0.0,Fan,
+1001487,FAN6X25TX3H,1145,true,15,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030789011,"",,,,,,,,,false,"",12.0,4.65,0.0,Fan,
+1001483,FAN6X2TX3,10,true,16,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030786591,"",,,,,,,,,false,"",12.0,4.58,0.0,Fan,
+1001534,FAN7X10TX3,1633,true,13,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030830836,"",,,,,,,,,false,"",14.0,4.64,0.0,Fan,
+1001525,FAN7X15TX3,628,true,1,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030820387,"",,,,,,,,,false,"",14.0,4.37,0.0,Fan,
+1001526,FAN7X25TX3,627,true,12,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030820394,"",,,,,,,,,false,"",14.0,5.0,0.0,Fan,
+1002024,FANATHLON,1141,true,4,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,8.95,0.0,Fan,
+1001475,FANCASE,9,true,4,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030782739,"",,,,,,,,,false,"",15.0,5.4,0.0,Fan,
+1001573,FCREADHCU3 USB3.0 CARD READER,3849,true,8,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030845816,"",,,,,,,,,false,"",39.0,22.83,0.0,USB Devices,D&H
+1001461,FELLOWES FEL8034801,4001,true,4,,,2015-08-01 14:33:27 -0700,2015-08-06 00:11:25 -0700,,false,,true,043859542529,"",,,,,,,,,false,"",79.0,55.94,0.0,Monitor;Mount,D&H
+1001689,FREQ 5 HEADSET RED,3715,true,5,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658033743,"",,,,,,,,,false,"",159.0,125.0,0.0,Peripheral;Headset,D&H
+1001688,FREQ 5 HEADSET WHITE,3816,true,2,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658032333,"",,,,,,,,,false,"",159.0,124.0,0.0,Peripheral;Headset,D&H
+1001472,GC15HSM,29,true,20,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030781121,"",,,,,,,,,false,"",5.0,2.11,0.0,Cable;Adapter,
+1001496,GC46FM,14,true,3,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030797122,"",,,,,,,,,false,"",6.0,2.0,0.0,Cable;Adapter,
+1001819,GUB211 2PT USB PRINTER SWITCH,4181,true,3,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,881317503039,"",,,,,,,,,false,"",29.0,17.35,0.0,USB Devices,D&H
+1002025,Hardware Install,65,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,0.0,0.0,Service,
+1001743,HAUPPAUGE HAUP1504 HD PVR2 GE+,4166,true,2,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,785428015040,"",,,,,,,,,false,"",249.0,167.0,0.0,TV Tuner / Capture / Edit,D&H
+1001744,HAUPPAUGE HAUP1528 STREAMEEZ,4164,true,1,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,785428015286,"",,,,,,,,,false,"",299.0,238.37,0.0,TV Tuner / Capture / Edit,D&H
+1001656,HAWKING WIRELESS SIGNAL BOOSTER,3808,true,1,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:34 -0700,,false,,true,603992505944,"",,,,,,,,,false,"",99.0,64.0,0.0,Network;Wireless,D&H
+1001702,HD15 M/M MINI-GENDER CHANGER,3737,true,8,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,757120206866,"",,,,,,,,,false,"",4.0,2.24,0.0,Cable;VGA,D&H
+1001591,HD2VGAMICRO,4044,true,1,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030852784,"",,,,,,,,,false,"",39.0,25.32,0.0,Cable;VGA,D&H
+1002027,HD2VID HDMI TO COMP CONVERTER,3804,true,2,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",169.0,117.0,0.0,Miscellaneous,D&H
+1001594,HDACDFMM,4434,true,3,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:32 -0700,,false,,true,065030856225,"",,,,,,,,,false,"",12.0,6.02,0.0,Cable;HDMI,D&H
+1001578,HDACFM,3954,true,9,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030848527,"",,,,,,,,,false,"",12.0,6.44,0.0,Cable;HDMI,D&H
+1001568,HDADFM5IN 5 HDMI ADAPTER,3618,true,4,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030844710,"",,,,,,,,,false,"",15.0,9.69,0.0,Cable;HDMI,D&H
+1001590,HDDVIMM3,4475,true,5,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030852005,"",,,,,,,,,false,"",16.0,9.46,0.0,Cable;DVI,D&H
+1001515,HDMIDVIMF,3994,true,9,,,2015-08-01 14:33:35 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811378,"",,,,,,,,,false,"",15.0,6.05,0.0,Cable;DVI,D&H
+1001514,HDMIDVIMM10,3470,true,5,,,2015-08-01 14:33:35 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811330,"",,,,,,,,,false,"",25.0,8.31,0.0,Cable;DVI,D&H
+1001516,HDMI-F TO DVI-M ADAPTER,3333,true,7,,,2015-08-01 14:33:35 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811385,"",,,,,,,,,false,"",15.0,6.12,0.0,Cable;Adapter,D&H
+1001562,HDMI/HDMI-MINI CABLE M/M 6FT,3581,true,12,,,2015-08-01 14:33:42 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030842631,"",,,,,,,,,false,"",19.0,7.5,0.0,Cable;DVI,D&H
+1001563,HDMIMM10HS,3420,true,43,,,2015-08-01 14:33:42 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030842648,"",,,,,,,,,false,"",20.0,10.5,0.0,Cable;HDMI,D&H
+1001513,HDMIMM15,3411,true,4,,,2015-08-01 14:33:35 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811323,"",,,,,,,,,false,"",25.0,15.0,0.0,Cable;HDMI,D&H
+1001564,HDMIMM20HS,4168,true,4,,,2015-08-01 14:33:42 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030842662,"",,,,,,,,,false,"",49.0,29.0,0.0,Cable;HDMI,D&H
+1001551,HDMIMM80AC,4438,true,2,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030840484,"",,,,,,,,,false,"",135.0,81.4,0.0,Cable;HDMI,D&H
+1001582,HDMM3,3952,true,12,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030849845,"",,,,,,,,,false,"",14.0,8.0,0.0,Cable;HDMI,D&H
+1001583,HDMM6,3891,true,13,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030849883,"",,,,,,,,,false,"",15.0,8.0,0.0,Cable;HDMI,D&H
+1001546,HDP2HDMI MINI DP HDMI ADAPTER,1154,true,6,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030836906,"",,,,,,,,,false,"",25.0,12.79,0.0,Cable;Adapter,D&H
+1002029,Hourly Onsite Rate 1/2 Hour,74,false,0,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",45.0,0.0,0.0,Service,
+1002030,Hourly Onsite Rate 1/4 Hour,75,false,0,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",22.5,0.0,0.0,Service,
+1002028,Hourly Onsite Rate 1 Hour,73,false,0,,,2015-08-01 14:34:45 -0700,2015-08-01 14:34:45 -0700,,false,,true,,"",,,,,,,,,false,"",90.0,0.0,0.0,Service,
+1002032,Hourly Shop Rate 1/2 Hour,71,false,0,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",40.0,0.0,0.0,Service,
+1002033,Hourly Shop Rate 1/4 Hour,72,false,0,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,0.0,0.0,Service,
+1002031,Hourly Shop Rate 1 Hour,70,false,0,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",80.0,0.0,0.0,Service,
+1001527,ICUSB232C2 2XRS-232,3819,true,3,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030820561,"",,,,,,,,,false,"",49.0,29.0,0.0,Cable;USB,D&H
+1001462,IHM60LT CRYSTALTUNES SPEAKERS,4053,true,1,,,2015-08-01 14:33:27 -0700,2015-08-06 00:11:26 -0700,,false,,true,047532895797,"",,,,,,,,,false,"",25.0,16.16,0.0,Speaker,D&H
+1001698,INTEL BXRTS2011AC,3442,true,2,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,735858224505,"",,,,,,,,,false,"",22.0,15.21,0.0,Fan,D&H
+1002034,INTEL I3-4170BOX 3.7GHZ 3M,4470,true,2,,,2015-08-01 14:34:46 -0700,2015-08-01 14:34:46 -0700,,false,,true,,"",,,,,,,,,false,"",139.0,107.0,0.0,Processor,MA Laboratories Inc
+1002035,INTEL I5-4690KBX LGA1150,4227,true,2,,,2015-08-01 14:34:46 -0700,2015-08-06 00:11:37 -0700,,false,,true,735858286022,"",,,,,,,,,false,"",279.0,226.0,0.0,Processor,MA Laboratories Inc
+1002036,INTEL I7-4790K BOX,4326,true,2,,,2015-08-01 14:34:46 -0700,2015-08-06 00:11:37 -0700,,false,,true,735858285957,"",,,,,,,,,false,"",389.0,325.0,0.0,Processor,D&H
+1001677,JJE01111S1 PCIE SERIAL CARD,4446,true,3,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,662774013992,"",,,,,,,,,false,"",39.0,25.27,0.0,Miscellaneous,D&H
+1001678,JUMR0A11S1 USB 3.0 CARD READER,4249,true,1,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,662774014036,"",,,,,,,,,false,"",49.0,30.67,0.0,USB Devices,D&H
+1001755,K3F310B,4002,true,3,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,841872156460,"",,,,,,,,,false,"",239.0,170.0,0.0,Monitor;Mount,D&H
+1001600,KENSINGTON EXPERT MOUSE,3743,true,1,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,085896643258,"",,,,,,,,,false,"",119.0,80.21,0.0,Peripheral;Mouse,D&H
+1001598,KENSINGTON FLYLIGHT 2.0 USB,3741,true,4,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,085896331209,"",,,,,,,,,false,"",19.0,12.9,0.0,USB Devices,D&H
+1001599,KENSINGTON POWERBOLT 1AMP CAR,3745,true,4,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,085896397045,"",,,,,,,,,false,"",39.0,24.0,0.0,Power Supply;Other,D&H
+1002037,KINGSTON HX316C10FK2/16 16GB,4225,true,6,,,2015-08-01 14:34:46 -0700,2015-08-06 00:11:37 -0700,,false,,true,740617230437,"",,,,,,,,,false,"",149.0,91.33,0.0,RAM;Desktop,MA Laboratories Inc
+1002038,KINGSTON HX316C10FK2/8,4481,true,2,,,2015-08-01 14:34:47 -0700,2015-08-06 00:11:37 -0700,,false,,true,740617230420,"",,,,,,,,,false,"",79.0,51.0,0.0,RAM;Desktop,MA Laboratories Inc
+1001696,L22801US PILLOW KB WRIST REST,4037,true,1,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,735353228015,"",,,,,,,,,false,"",10.0,6.29,0.0,Peripheral;Keyboard,D&H
+1002039,LAPTOP POWER JACK - NORMAL,815,false,0,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,0.0,0.0,Miscellaneous,
+1002040,LAPTOP POWER JACK - SPECIAL ORD,823,false,0,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Miscellaneous,
+1001843,LENOVO C460 21.5 AOI,4021,true,1,,,2015-08-01 14:34:24 -0700,2015-08-06 00:11:46 -0700,,false,,true,888440139098,"",,,,,,,,,false,"",829.0,620.43,0.0,Computer;All-In-One,D&H
+1001767,LITE-ON 24X SATA DVDRW,1647,true,8,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,844149007083,"",,,,,,,,,false,"",39.0,18.75,0.0,Optical Drive;Internal,MA Laboratories Inc
+1001629,LOGITECH ANYWHERE MOUSE MX,1888,true,1,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855083876,"",,,,,,,,,false,"",99.0,51.06,0.0,Peripheral;Mouse,
+1001620,LOGITECH C270 WEBCAM,3628,true,3,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855070739,"",,,,,,,,,false,"",49.0,34.04,0.0,Peripheral;Webcamera,D&H
+1001604,LOGITECH CORDLESS WAVE DESKTOP,1057,true,1,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855045607,"",,,,,,,,,false,"",109.0,72.73,0.0,Peripheral;Keyboard,
+1001603,LOGITECH EXTREME 3D PRO JS,338,true,3,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855018113,"",,,,,,,,,false,"",39.0,30.11,0.0,Peripheral;Controller,
+1001605,LOGITECH G13 ADVANCED GAMEBOARD,1158,true,3,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855053893,"",,,,,,,,,false,"",99.0,60.0,0.0,Peripheral;Keyboard,D&H
+1001645,LOGITECH G230 GAMING HEADSET,3827,true,1,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855094476,"",,,,,,,,,false,"",59.0,44.41,0.0,Peripheral;Headset,D&H
+1001654,LOGITECH G303 DAEDALUS APEX,4444,true,5,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855112620,"",,,,,,,,,false,"",89.0,63.29,0.0,Peripheral;Mouse,D&H
+1001606,LOGITECH G35 USB HEADSET,1751,true,3,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855057716,"",,,,,,,,,false,"",159.0,79.99,0.0,Peripheral;Headset,D&H
+1001651,LOGITECH G402 FPS HYPERION,4253,true,3,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855105660,"",,,,,,,,,false,"",89.0,42.49,0.0,Peripheral;Mouse,D&H
+1001644,LOGITECH G430 HEADSET,4014,true,1,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855094438,"",,,,,,,,,false,"",109.0,68.71,0.0,Peripheral;Headset,D&H
+1002041,LOGITECH G502 PROTEUS CORE,4240,true,7,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",99.0,65.0,0.0,Peripheral;Mouse,Amazon
+1001642,LOGITECH G510s GAMING KEYBOARD,3776,true,2,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855093264,"",,,,,,,,,false,"",119.0,84.99,0.0,Peripheral;Keyboard,D&H
+1001641,LOGITECH G600 MMO WHITE,3404,true,1,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855089229,"",,,,,,,,,false,"",99.0,59.99,0.0,Peripheral;Mouse,D&H
+1001650,LOGITECH G602 WRLS GAMING MOUSE,3866,true,2,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855098498,"",,,,,,,,,false,"",99.0,49.99,0.0,Peripheral;Mouse,D&H
+1001640,LOGITECH G710+ MECHANICAL KB,3500,true,6,,,2015-08-01 14:33:53 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855089007,"",,,,,,,,,false,"",159.0,99.99,0.0,Peripheral;Keyboard,D&H
+1001623,LOGITECH HD WEBCAM C525,3103,true,3,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855073372,"",,,,,,,,,false,"",69.0,51.06,0.0,Peripheral;Webcamera,Amazon
+1001615,LOGITECH K120 USB KEYBOARD,2631,true,9,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855065537,"",,,,,,,,,false,"",24.0,11.29,0.0,Peripheral;Keyboard,MA Laboratories Inc
+1001622,LOGITECH K270 WIRELESS KEYBOARD,1173,true,0,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855073358,"",,,,,,,,,false,"",35.0,24.19,0.0,Peripheral;Keyboard,D&H
+1001611,LOGITECH K350 WLS KB 920-001996,3903,true,11,,,2015-08-01 14:33:49 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855060877,"",,,,,,,,,false,"",69.0,47.87,0.0,Peripheral;Keyboard,D&H
+1001626,LOGITECH K400 WIRELESS TOUCH KB,3773,true,1,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855074928,"",,,,,,,,,false,"",49.0,24.99,0.0,Peripheral;Keyboard,D&H
+1001639,LOGITECH K760 SOLAR KEYBOARD,3778,true,1,,,2015-08-01 14:33:53 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855086822,"",,,,,,,,,false,"",99.0,85.1,0.0,Peripheral;Keyboard,D&H
+1001613,LOGITECH K800 ILLUMINATED KB,3102,true,2,,,2015-08-01 14:33:49 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855065353,"",,,,,,,,,false,"",109.0,69.99,0.0,Peripheral;Keyboard,Amazon
+1001617,LOGITECH M305 WIRELESS MOUSE,2711,true,1,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855066121,"",,,,,,,,,false,"",39.0,24.19,0.0,Peripheral;Mouse,D&H
+1001619,LOGITECH M570 WIRELESS TRACKBALL,2712,true,2,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855070098,"",,,,,,,,,false,"",75.0,34.29,0.0,Peripheral;Mouse,D&H
+1001612,LOGITECH MK605 NOTEBOOK KIT,2450,true,1,,,2015-08-01 14:33:49 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855061775,"",,,,,,,,,false,"",99.0,69.52,0.0,Peripheral;Keyboard,D&H
+1001653,LOGITECH MX MASTER WLS/BT,4459,true,5,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855111593,"",,,,,,,,,false,"",149.99,99.99,0.0,Peripheral;Mouse,Amazon
+1001608,LOGITECH PERFORMANCE MX MOUSE,3775,true,2,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855060273,"",,,,,,,,,false,"",99.0,63.49,0.0,Peripheral;Mouse,D&H
+1001643,LOGITECH TK820 AIO WIRELESS KB,3925,true,2,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855094315,"",,,,,,,,,false,"",99.0,63.15,0.0,Peripheral;Keyboard,D&H
+1001602,LOGITECH TRACKMAN MARBLE,386,true,4,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855010162,"",,,,,,,,,false,"",39.0,17.99,0.0,Peripheral;Mouse,
+1002042,LOGITECH UNIFYING RECEIVER,4241,true,3,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,8.99,0.0,Peripheral;Mouse,Amazon
+1001607,LOGITECH USB B100 OPTICAL BK,2440,true,9,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855060266,"",,,,,,,,,false,"",15.0,6.77,0.0,Peripheral;Mouse,MA Laboratories Inc
+1001625,LOGITECH WEBCAM C920 960-000764,3948,true,1,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855074355,"",,,,,,,,,false,"",129.0,85.11,0.0,Peripheral;Webcamera,D&H
+1001616,LOGITECH Z130 SPEAKER SET,3048,true,5,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855065759,"",,,,,,,,,false,"",32.0,18.82,0.0,Speaker,D&H
+1001652,LOGITECH Z213 2.1 SPEAKERS,4251,true,4,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855106223,"",,,,,,,,,false,"",39.0,25.81,0.0,Speaker,D&H
+1001610,LOGITECH Z323 2.1 OMNI SPEAKERS,2133,true,1,,,2015-08-01 14:33:49 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855060570,"",,,,,,,,,false,"",79.0,55.85,0.0,Speaker,D&H
+1001609,LOGITECH Z523 2.1 OMNI SPAKERS,2134,true,3,,,2015-08-01 14:33:48 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855060518,"",,,,,,,,,false,"",119.0,79.79,0.0,Speaker,D&H
+1001618,LOGITECH Z623 2.1 THX SPEAKERS,3309,true,2,,,2015-08-01 14:33:50 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855066466,"",,,,,,,,,false,"",179.0,126.32,0.0,Speaker,D&H
+1002043,LP4LSATAADAP,1547,true,4,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,2.27,0.0,Cable;Power,
+1001570,LP4PCIEX8ADP,4304,true,4,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030845342,"",,,,,,,,,false,"",10.0,4.96,0.0,Cable;Power,D&H
+1001511,LP4PCIEXADAP,3651,true,12,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811194,"",,,,,,,,,false,"",5.0,1.72,0.0,Cable;Power,D&H
+1001558,LP4SATAFM6IN,3942,true,3,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841627,"",,,,,,,,,false,"",6.0,3.25,0.0,Cable;Power,D&H
+1001530,LP4SATAFMD,821,true,6,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030825702,"",,,,,,,,,false,"",8.0,4.0,0.0,Cable;Power,
+1001521,LSATA12,3956,true,6,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818681,"",,,,,,,,,false,"",5.0,1.76,0.0,Cable;SATA,D&H
+1001522,LSATA12RA1,22,true,8,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818698,"",,,,,,,,,false,"",6.0,2.11,0.0,Cable;SATA,
+1001523,LSATA12RA2,24,true,8,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818704,"",,,,,,,,,false,"",15.0,2.64,0.0,Cable;SATA,
+1001524,LSATA18RA2,3366,true,11,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818902,"",,,,,,,,,false,"",5.0,2.0,0.0,Cable;SATA,D&H
+1001560,LSATA6,3960,true,12,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841948,"",,,,,,,,,false,"",5.0,3.0,0.0,Cable;SATA,D&H
+1001595,LSATARND12R1,4309,true,7,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,065030856614,"",,,,,,,,,false,"",6.0,3.23,0.0,Cable;SATA,D&H
+1001596,LSATARND18R1,4312,true,5,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,065030856737,"",,,,,,,,,false,"",8.0,3.38,0.0,Cable;SATA,D&H
+1002044,LYNX SERVER,2752,false,0,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Computer;Server,MA Laboratories Inc
+1001634,M325 BLACK TOPO 910-002965,3712,true,4,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086372,"",,,,,,,,,false,"",29.0,19.39,0.0,Peripheral;Mouse,Amazon
+1001627,M325 BLUE 910-002650,3536,true,3,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855080592,"",,,,,,,,,false,"",29.0,19.12,0.0,Peripheral;Mouse,Amazon
+1001632,M325 BLUE SKY 910-002962,3711,true,2,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086341,"",,,,,,,,,false,"",29.0,14.25,0.0,Peripheral;Mouse,Amazon
+1002045,M325 BLUE TOPO 910-003143,3528,true,0,,,2015-08-01 14:34:47 -0700,2015-08-01 14:34:47 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,23.73,0.0,Peripheral;Mouse,Amazon
+1001638,M325 BRILLIANT ROSE 910-003121,3859,true,5,,,2015-08-01 14:33:53 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855086617,"",,,,,,,,,false,"",29.0,18.82,0.0,Peripheral;Mouse,D&H
+1002046,M325 CIRCUIT BOARD 910-002416,3529,true,0,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,20.35,0.0,Peripheral;Mouse,Amazon
+1002047,M325 CORAL FAN 910-002951,4234,true,4,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,15.95,0.0,Peripheral;Mouse,Amazon
+1001631,M325 CRIMSON RIBBONS 910-002967,3531,true,2,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086310,"",,,,,,,,,false,"",29.0,14.99,0.0,Peripheral;Mouse,Amazon
+1001621,M325 DARK SILVER 910-002136,3713,true,6,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855072801,"",,,,,,,,,false,"",29.0,20.18,0.0,Peripheral;Mouse,Amazon
+1002048,M325 FUSION PARTY 910-003712,4237,true,2,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,14.19,0.0,Peripheral;Mouse,Amazon
+1002049,M325 INDIA JEWEL 910-003686,4233,true,1,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,17.99,0.0,Peripheral;Mouse,Amazon
+1001647,M325 INTO THE DEEP 910-003683,3848,true,5,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855095046,"",,,,,,,,,false,"",29.0,14.49,0.0,Peripheral;Mouse,D&H
+1002050,M325 ISLAND WAVE 910-003713,4235,true,1,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,19.99,0.0,Peripheral;Mouse,Amazon
+1001648,M325 LADY LILY 910-003684,3861,true,3,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855095053,"",,,,,,,,,false,"",29.0,17.99,0.0,Peripheral;Mouse,D&H
+1001624,M325 LIGHT SILVER 910-002332,3527,true,4,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855073891,"",,,,,,,,,false,"",29.0,18.45,0.0,Peripheral;Mouse,Amazon
+1001636,M325 LIQUID COLOR 910-002968,3650,true,0,,,2015-08-01 14:33:53 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086402,"",,,,,,,,,false,"",29.0,22.54,0.0,Peripheral;Mouse,D&H
+1001649,M325 MOUSE FUSION 910-003712,3850,true,0,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855095268,"",,,,,,,,,false,"",29.0,24.19,0.0,Peripheral;Mouse,
+1002051,M325 NATURE JEWELRY 910-002987,4232,true,1,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,14.25,0.0,Peripheral;Mouse,Amazon
+1002052,M325 PAISLEY POND BLUE 910-0036,4236,true,5,,,2015-08-01 14:34:48 -0700,2015-08-01 14:34:48 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,19.25,0.0,Peripheral;Mouse,Amazon
+1001635,M325 PANDY CANDY 910-002966,3638,true,0,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086389,"",,,,,,,,,false,"",29.0,24.06,0.0,Peripheral;Mouse,D&H
+1001628,M325 RED 910-002651,3639,true,1,,,2015-08-01 14:33:51 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855080608,"",,,,,,,,,false,"",29.0,18.5,0.0,Peripheral;Mouse,D&H
+1001646,M325 TWEET TWEET 910-003682,3860,true,2,,,2015-08-01 14:33:54 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855095039,"",,,,,,,,,false,"",29.0,14.88,0.0,Peripheral;Mouse,D&H
+1001637,M325 VIVID VIOLET 910-003120,3532,true,5,,,2015-08-01 14:33:53 -0700,2015-08-06 00:11:34 -0700,,false,,true,097855086600,"",,,,,,,,,false,"",29.0,19.27,0.0,Peripheral;Mouse,Amazon
+1001633,M325 WHITE PAISLEY 910-002964,3537,true,5,,,2015-08-01 14:33:52 -0700,2015-08-06 00:11:33 -0700,,false,,true,097855086365,"",,,,,,,,,false,"",29.0,17.79,0.0,Peripheral;Mouse,Amazon
+1001488,M45PATCH1GR,181,true,15,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030791670,"",,,,,,,,,false,"",5.0,1.05,0.0,Cable;Ethernet,
+1001687,MADCATZ CYBORG FREQ 5 HEADSET,3505,true,3,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658031169,"",,,,,,,,,false,"",159.0,125.0,0.0,Peripheral;Headset,D&H
+1001686,MADCATZ CYBORG MMO7 GAMING MS,1176,true,1,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658030834,"",,,,,,,,,false,"",159.0,99.99,0.0,Peripheral;Mouse,D&H
+1001452,MADCATZ CYBORG RAT 7 GAMING MS,2746,true,4,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,021165112452,"",,,,,,,,,false,"",109.0,94.95,0.0,Peripheral;Mouse,
+1001691,MADCATZ RAT 7 RED,3644,true,1,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658033873,"",,,,,,,,,false,"",109.0,86.29,0.0,Peripheral;Mouse,D&H
+1001690,MADCATZ RAT 7 WHITE,3642,true,1,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658033859,"",,,,,,,,,false,"",109.0,83.01,0.0,Peripheral;Mouse,D&H
+1002053,MADCATZ STRIKE TE MECH KB BLACK,4353,true,1,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",169.0,124.99,0.0,Peripheral;Keyboard,D&H
+1001695,MADCATZ STRIKE TE MECH KEYBOARD,4352,true,3,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:37 -0700,,false,,true,728658043391,"",,,,,,,,,false,"",169.0,124.99,0.0,Peripheral;Keyboard,D&H
+1001585,MCHD2VVGAE2,4139,true,8,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030850971,"",,,,,,,,,false,"",49.0,27.61,0.0,Cable;Adapter,D&H
+1001544,MCSATAADAP,3941,true,4,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030835800,"",,,,,,,,,false,"",19.0,11.0,0.0,Cable;SATA,D&H
+1001579,MDP2DVI3,4289,true,11,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030848695,"",,,,,,,,,false,"",20.0,12.96,0.0,Cable;Adapter,D&H
+1001720,MH 101684 90W UNIVERSAL,4443,true,6,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623101684,"",,,,,,,,,false,"",65.0,43.45,0.0,Power Supply;Laptop,D&H
+1001721,MH 101691 UNIVERSAL 120W,3985,true,3,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623101691,"",,,,,,,,,false,"",79.0,40.88,0.0,Power Supply;Laptop,D&H
+1001737,MH BRAIDED USB-A MICRO-B 1.5FT,4411,true,53,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,766623394161,"",,,,,,,,,false,"",5.0,1.21,0.0,Cable;USB,
+1002054,MICROSOFT WIN 7 HOME PREM 64BIT,1904,true,2,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",129.0,95.0,0.0,Software;Operating System,MA Laboratories Inc
+1002055,MICROSOFT WIN 7 PRO 64BIT,1905,true,2,,,2015-08-01 14:34:49 -0700,2015-08-03 11:58:19 -0700,,false,,true,,"",,,,,,,,,false,"",189.0,135.0,0.0,Software;Operating System,MA Laboratories Inc
+1002056,Miscellaneous,4200,true,0,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Miscellaneous,
+1001614,MK120 DESKTOP COMBO 920-002565,3657,true,7,,,2015-08-01 14:33:49 -0700,2015-08-06 00:11:32 -0700,,false,,true,097855065476,"",,,,,,,,,false,"",25.0,15.05,0.0,Peripheral;Keyboard,D&H
+1002057,MP1152 DB9F/RJ-45,4449,true,2,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.61,0.0,Cable;Misc,
+1002058,MP1167 DB9/DB9 M,4448,true,7,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.98,0.0,Cable;Misc,
+1002059,MP1168 DB9/DB9 F,4450,true,4,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",3.0,0.78,0.0,Cable;Misc,
+1002060,MP11887 HDMI A-A,4451,true,7,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,2.9,0.0,Cable;HDMI,
+1002061,MP1191 HD15 F/F VGA,4452,true,6,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",4.0,1.55,0.0,Cable;VGA,
+1001823,MS NATURAL ERGO 4000 KB,3986,true,1,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,882224015462,"",,,,,,,,,false,"",39.0,29.99,0.0,Peripheral;Keyboard,D&H
+1002062,MS WIRELESS MOBILE MOUSE,3921,true,10,,,2015-08-01 14:34:49 -0700,2015-08-01 14:34:49 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,17.49,0.0,Peripheral;Mouse,D&H
+1001555,MU3MMS 3 STEREO AUDIO M/M,3307,true,5,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841252,"",,,,,,,,,false,"",5.0,2.0,0.0,Cable;Audio,D&H
+1001556,MU3MMSRA 3 STEREO AUDIO M/M,3304,true,11,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841290,"",,,,,,,,,false,"",6.0,3.0,0.0,Cable;Audio,D&H
+1001468,MU6MF 6 AUDIO EXTENSION,1155,true,3,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030773379,"",,,,,,,,,false,"",5.0,1.93,0.0,Cable;Audio,D&H
+1001467,MU6MM 6 AUDIO PATCH CABLE,3197,true,9,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030773355,"",,,,,,,,,false,"",8.0,1.91,0.0,Cable;Audio,D&H
+1001476,MUMFRCA,597,true,11,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030783309,"",,,,,,,,,false,"",5.0,2.0,0.0,Cable;Audio,
+1001497,MUY1MFF,4038,true,6,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030799836,"",,,,,,,,,false,"",6.0,2.02,0.0,Cable;Audio,D&H
+1001584,MUY1MFFADP,4046,true,8,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030850728,"",,,,,,,,,false,"",8.0,3.65,0.0,Cable;Audio,D&H
+1001477,MUY6MFF,478,true,14,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030783316,"",,,,,,,,,false,"",5.0,1.0,0.0,Cable;Audio,
+1001567,MUYHSFMM HEADSET ADAPTER M/M,3380,true,2,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030843836,"",,,,,,,,,false,"",12.0,4.83,0.0,Cable;Audio,D&H
+1001566,MUYHSMFF,4151,true,1,,,2015-08-01 14:33:42 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030843515,"",,,,,,,,,false,"",12.0,6.74,0.0,Cable;Audio,Amazon
+1001520,MXT101MMH100,4439,true,3,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818094,"",,,,,,,,,false,"",80.0,46.7,0.0,Cable;VGA,D&H
+1001470,MXT101MMHQ,716,true,25,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030778770,"",,,,,,,,,false,"",15.0,7.04,0.0,Cable;VGA,
+1001517,MXT101MMHQ10,3521,true,6,,,2015-08-01 14:33:35 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030812122,"",,,,,,,,,false,"",22.0,9.31,0.0,Cable;VGA,D&H
+1001550,MXT101MMHQ20,3693,true,3,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030839877,"",,,,,,,,,false,"",20.0,13.51,0.0,Cable;VGA,D&H
+1001489,MXT101MMHQ25,4013,true,5,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030793124,"",,,,,,,,,false,"",25.0,14.29,0.0,Cable;VGA,D&H
+1001549,MXT101MMHQ30,3485,true,1,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030839860,"",,,,,,,,,false,"",25.0,15.49,0.0,Cable;VGA,D&H
+1001490,MXT101MMHQ50,3694,true,1,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030793193,"",,,,,,,,,false,"",39.0,24.8,0.0,Cable;VGA,D&H
+1001519,MXT101MMHQ75,4447,true,3,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030818087,"",,,,,,,,,false,"",69.0,37.2,0.0,Cable;VGA,D&H
+1001471,MXT105MMHQ,3479,true,5,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030778787,"",,,,,,,,,false,"",20.0,12.0,0.0,Cable;VGA,D&H
+1001458,NOTEBOOK POWER CORD P012006,3857,true,1,,,2015-08-01 14:33:27 -0700,2015-08-06 00:11:25 -0700,,false,,true,037332013422,"",,,,,,,,,false,"",6.0,3.2,0.0,Cable;Power,D&H
+1001836,OFFICE HOME AND BUSINESS 2013,3576,true,4,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,885370451122,"",,,,,,,,,false,"",219.0,178.0,0.0,Software;Productivity,D&H
+1001837,OFFICE HOME AND STUDENT 2013,3578,true,4,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,885370451160,"",,,,,,,,,false,"",149.0,116.0,0.0,Software;Productivity,D&H
+1002063,Out of Area Hourly Onsite Rate,1337,false,0,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",125.0,0.0,0.0,Service,
+1001459,P576001 1FT DMS59-DVI-I,1157,true,17,,,2015-08-01 14:33:27 -0700,2015-08-06 00:11:25 -0700,,false,,true,037332145970,"",,,,,,,,,false,"",25.0,12.5,0.0,Cable;DVI,D&H
+1002195,Password Removal,Password Removal,false,0,,,2015-08-01 17:50:03 -0700,2015-08-06 00:11:52 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,0.0,0.0,Service,
+1002064,PCIEX68ADAP,816,true,2,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,7.15,0.0,Cable;Power,
+1001589,PEXUSB3S23 - 2PT PCIE USB3.0,4436,true,4,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030851633,"",,,,,,,,,false,"",25.0,16.51,0.0,Miscellaneous,D&H
+1001748,PLANAR 997-6035-00 TRIPLE STAND,4061,true,2,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,810689060352,"",,,,,,,,,false,"",299.0,218.75,0.0,Monitor;Mount,D&H
+1001749,PLANAR 997-7029-00 UNI HEIGHT,4060,true,7,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,810689070290,"",,,,,,,,,false,"",99.0,73.06,0.0,Monitor;Mount,D&H
+1001450,PLANTRONICS .AUDIO 995 80930-11,3255,true,1,,,2015-08-01 14:33:25 -0700,2015-08-06 00:11:25 -0700,,false,,true,017229129368,"",,,,,,,,,false,"",79.0,52.61,0.0,Peripheral;Headset,
+1002065,Power Supply Hardware Install,86,false,0,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",29.0,0.0,0.0,Service,
+1002066,PROJECTOR RENTAL,777,false,0,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",49.0,0.0,0.0,Miscellaneous,
+1001580,PYO2LP4LSATA,4307,true,5,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030848923,"",,,,,,,,,false,"",6.0,2.71,0.0,Cable;Power,D&H
+1001509,PYO2LP4SATA,13,true,11,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030809207,"",,,,,,,,,false,"",8.0,2.02,0.0,Cable;Power,
+1001581,PYO2LSATA,4306,true,9,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030849579,"",,,,,,,,,false,"",8.0,3.26,0.0,Cable;Power,D&H
+1001529,PYO3SATA,709,true,2,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030824408,"",,,,,,,,,false,"",9.0,4.0,0.0,Cable;Power,
+1002067,Quick Fix Fee,66,false,0,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",20.0,0.0,0.0,Service,
+1001825,R4L2R20AGR2 120MM GREEN SILENT,3376,true,1,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,884102007965,"",,,,,,,,,false,"",15.0,5.95,0.0,Fan,D&H
+1001824,R4LUS07ABGP 200MM MEGAFLOW FAN,3383,true,5,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,884102004018,"",,,,,,,,,false,"",19.0,11.9,0.0,Fan,D&H
+1001815,R4S4S10AKGP 140MM FAN,3370,true,9,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,870423003717,"",,,,,,,,,false,"",15.0,5.95,0.0,Fan,D&H
+1001655,RAT M WIRELESS GAMING MOUSE,4348,true,2,,,2015-08-01 14:33:55 -0700,2015-08-06 00:11:34 -0700,,false,,true,132018532966,"",,,,,,,,,false,"",109.0,74.65,0.0,Peripheral;Mouse,D&H
+1001692,RAT M WIRELESS GAMING MOUSE RED,4361,true,3,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658034511,"",,,,,,,,,false,"",109.0,78.6,0.0,Peripheral;Mouse,Amazon
+1001693,RAT TE GAMING MOUSE GLOSSY BK,4359,true,1,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658040116,"",,,,,,,,,false,"",89.0,59.01,0.0,Peripheral;Mouse,D&H
+1001694,RAT TE GAMING MOUSE RED,4286,true,5,,,2015-08-01 14:34:01 -0700,2015-08-06 00:11:37 -0700,,false,,true,728658041625,"",,,,,,,,,false,"",89.0,62.0,0.0,Peripheral;Mouse,D&H
+1002068,RAZER ANASI MMO GAMING KEYBOARD,2904,true,1,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",119.0,85.99,0.0,Peripheral;Keyboard,
+1001750,RAZER BLACKSHARK 2.0 HEADSET,4288,true,2,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,811254020689,"",,,,,,,,,false,"",149.0,98.0,0.0,Peripheral;Headset,D&H
+1001752,RAZER BLACKWIDOW CHROMA,4292,true,0,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,811254023888,"",,,,,,,,,false,"",229.0,148.0,0.0,Peripheral;Keyboard,D&H
+1002069,RAZER FEROX MOBILE GAME SPEAKER,3222,true,2,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,51.75,0.0,Speaker,
+1001818,RAZER MANTICOR ALUMINUM,4028,true,1,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,879862006082,"",,,,,,,,,false,"",59.0,36.0,0.0,Peripheral;Mouse Pad,Amazon
+1001751,RAZER ORBWEAVER ELITE KEYPAD,3784,true,5,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,811254020887,"",,,,,,,,,false,"",149.0,113.0,0.0,Peripheral;Keyboard,
+1002070,RAZER OUROBOROS ELITE AMBI,3914,true,1,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",169.0,129.0,0.0,Peripheral;Mouse,Amazon
+1002071,RAZER TARTARUS GAMING KEYPAD,3915,true,1,,,2015-08-01 14:34:50 -0700,2015-08-01 14:34:50 -0700,,false,,true,,"",,,,,,,,,false,"",89.0,63.26,0.0,Peripheral;Keyboard,Amazon
+1001512,RCAMM,581,true,5,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030811293,"",,,,,,,,,false,"",5.0,1.65,0.0,Cable;Misc,
+1001479,RCAVIDHQ6,459,true,10,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030785082,"",,,,,,,,,false,"",8.0,1.69,0.0,Cable;Misc,
+1002081,Reload Other OS,62,false,0,,,2015-08-01 14:34:51 -0700,2015-08-06 00:11:52 -0700,,false,,true,,"",,,,,,,,,false,"",119.0,0.0,0.0,Service,
+1002082,Reload Other OS - Save Data,64,false,0,,,2015-08-01 14:34:51 -0700,2015-08-06 00:11:52 -0700,,false,,true,,"",,,,,,,,,false,"",149.0,0.0,0.0,Service,
+1002084,Reload Windows Vista/7/8/10,61,false,0,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:52 -0700,,false,,true,,"",,,,,,,,,false,"",99.0,0.0,0.0,Service,
+1002083,Reload Win Vista/7/8/10 - Save Data,63,false,0,,,2015-08-01 14:34:51 -0700,2015-08-06 00:11:53 -0700,,false,,true,,"",,,,,,,,,false,"",129.0,0.0,0.0,Service,
+1001747,REVOLVE RESCUE 2200 BATTERY,3876,true,3,,,2015-08-01 14:34:09 -0700,2015-08-06 00:11:40 -0700,,false,,true,793573097705,"",,,,,,,,,false,"",39.0,21.8,0.0,Battery,D&H
+1001478,RJ45 INLINE COUPLER,4250,true,6,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030784429,"",,,,,,,,,false,"",5.0,1.08,0.0,Cable;Ethernet,D&H
+1001685,SAITEK PRO FLIGHT CESSNA YOKE,3847,true,1,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,728658030070,"",,,,,,,,,false,"",259.0,167.0,0.0,Peripheral;Controller,D&H
+1001453,SAITEK PRO FLIGHT RUDDER PEDAL,3079,true,2,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,021165113503,"",,,,,,,,,false,"",239.0,166.1,0.0,Peripheral;Controller,D&H
+1001840,SAMSUNG 120GB 840 EVO SSD,3813,true,1,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276851365,"",,,,,,,,,false,"",129.0,81.0,0.0,Hard Drive;Solid State,D&H
+1002085,SAMSUNG 850 EVO 120GB SSD,4370,true,3,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276086064,"",,,,,,,,,false,"",119.0,64.0,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002086,SAMSUNG 850 EVO 250GB SSD,4358,true,2,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276086071,"",,,,,,,,,false,"",179.0,96.0,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002087,SAMSUNG 850 EVO 500GB SSD,4340,true,2,,,2015-08-01 14:34:52 -0700,2015-08-01 14:34:52 -0700,,false,,true,,"",,,,,,,,,false,"",329.0,177.0,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002088,SAMSUNG 850 PRO 128GB SSD,4226,true,3,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276057477,"",,,,,,,,,false,"",169.0,92.0,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002089,SAMSUNG 850 PRO 1TB SSD,4315,true,0,,,2015-08-01 14:34:52 -0700,2015-08-01 14:34:52 -0700,,false,,true,,"",,,,,,,,,false,"",699.0,580.0,0.0,Hard Drive;Solid State,D&H
+1002090,SAMSUNG 850 PRO 256GB SSD,4228,true,5,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276057484,"",,,,,,,,,false,"",239.0,137.8,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002091,SAMSUNG 850 PRO 512GB SSD,4210,true,4,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276057491,"",,,,,,,,,false,"",439.0,229.0,0.0,Hard Drive;Solid State,MA Laboratories Inc
+1002092,SAMSUNG SLIM USB BLURAY WRITER,3322,true,4,,,2015-08-01 14:34:52 -0700,2015-08-06 00:11:46 -0700,,false,,true,887276693767,"",,,,,,,,,false,"",139.0,74.25,0.0,Optical Drive;External,MA Laboratories Inc
+1006163,SAMSUNG SLIM USB DVD SE-208GB,SE-208GB,true,5,,,2015-08-05 20:03:47 -0700,2015-08-06 00:11:46 -0700,,false,1,true,887276040400,"",,,,,1,,,,false,"",39.0,23.5,0.0,Optical Drive;External,MA Laboratories Inc
+1001660,SANDISK EXTREME CZ80 16GB,4423,true,0,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:35 -0700,,false,,true,619659121761,"",,,,,,,,,false,"",39.0,20.54,0.0,USB Devices;Flash Drive,Amazon
+1001661,SANDISK EXTREME CZ80 32GB,4424,true,5,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:35 -0700,,false,,true,619659121778,"",,,,,,,,,false,"",49.0,29.19,0.0,USB Devices;Flash Drive,Amazon
+1001662,SANDISK EXTREME CZ80 64GB,4425,true,5,,,2015-08-01 14:33:56 -0700,2015-08-06 00:11:35 -0700,,false,,true,619659121785,"",,,,,,,,,false,"",69.0,43.8,0.0,USB Devices;Flash Drive,Amazon
+1001572,SAT2MSAT25,3962,true,1,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030845694,"",,,,,,,,,false,"",39.0,27.3,0.0,Cable;SATA,D&H
+1001553,SATA12,3959,true,7,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030840767,"",,,,,,,,,false,"",5.0,3.0,0.0,Cable;SATA,D&H
+1001565,SATA12LA1,4311,true,1,,,2015-08-01 14:33:42 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030842723,"",,,,,,,,,false,"",5.0,2.31,0.0,Cable;SATA,D&H
+1001492,SATA18 18 SATA CABLE,1159,true,1,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030795234,"",,,,,,,,,false,"",5.0,1.99,0.0,Cable;SATA,D&H
+1001504,SATA18RA1,3387,true,9,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030805353,"",,,,,,,,,false,"",6.0,1.9,0.0,Cable;SATA,D&H
+1001505,SATA24RA1 24 RIGHT ANGLE SATA,1160,true,6,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030805360,"",,,,,,,,,false,"",6.0,2.29,0.0,Cable;SATA,D&H
+1001493,SATA36 36 SATA CABLE,1161,true,1,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030796002,"",,,,,,,,,false,"",7.0,3.0,0.0,Cable;SATA,D&H
+1002093,SATAPOW36,812,true,8,,,2015-08-01 14:34:53 -0700,2015-08-01 14:34:53 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,4.01,0.0,Cable;Power,
+1001495,SATAPOWADAP,1541,true,18,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030796330,"",,,,,,,,,false,"",6.0,1.4,0.0,Cable;Power,
+1001559,SATAPOWADAPR,3961,true,18,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841771,"",,,,,,,,,false,"",5.0,1.62,0.0,Cable;Power,D&H
+1001576,SATAPOWADPL,3949,true,16,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030848350,"",,,,,,,,,false,"",6.0,1.87,0.0,Cable;Power,D&H
+1001506,SATARA18,3388,true,3,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030805384,"",,,,,,,,,false,"",6.0,2.0,0.0,Cable;SATA,D&H
+1001466,SB TACTIC3D RAGE V2.0 USB,4334,true,1,,,2015-08-01 14:33:28 -0700,2015-08-06 00:11:26 -0700,,false,,true,054651187726,"",,,,,,,,,false,"",79.0,55.74,0.0,Peripheral;Headset,D&H
+1001601,SCR3310BULK USB CAC READER,3219,true,37,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,094922843616,"",,,,,,,,,false,"",29.0,13.0,0.0,USB Devices,D&H
+1001676,SCREEN DR. PRO 5OZ LCD CLEANER,4143,true,2,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:35 -0700,,false,,true,659846411121,"",,,,,,,,,false,"",15.0,8.93,0.0,Miscellaneous,D&H
+1002094,SEAGATE 1TB SATA3 64MB 7200RPM,1500,true,17,,,2015-08-01 14:34:53 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649027363,"",,,,,,,,,false,"",79.0,44.99,0.0,Hard Drive;Desktop 3.5IN,MA Laboratories Inc
+1002095,SEAGATE 2TB SATA3 63MB 7200RPM,3269,true,6,,,2015-08-01 14:34:53 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649027455,"",,,,,,,,,false,"",119.0,68.5,0.0,Hard Drive;Desktop 3.5IN,MA Laboratories Inc
+1002096,SEAGATE 3TB SATA3 64MB 7200RPM,3270,true,2,,,2015-08-01 14:34:53 -0700,2015-08-01 14:34:53 -0700,,false,,true,,"",,,,,,,,,false,"",189.0,96.0,0.0,Hard Drive;Desktop 3.5IN,MA Laboratories Inc
+1002097,SEAGATE 4TB SATA3 64MB 5900RPM,3683,true,3,,,2015-08-01 14:34:53 -0700,2015-08-01 14:34:53 -0700,,false,,true,,"",,,,,,,,,false,"",199.0,130.0,0.0,Hard Drive;Desktop 3.5IN,MA Laboratories Inc
+1002098,SEAGATE 500GB SATA3 7200RPM 16M,3208,true,5,,,2015-08-01 14:34:53 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649032046,"",,,,,,,,,false,"",69.0,42.25,0.0,Hard Drive;Desktop 3.5IN,MA Laboratories Inc
+1001711,SEAGATE BPPS USB3.0 1TB BLACK,3969,true,4,,,2015-08-01 14:34:04 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052822,"",,,,,,,,,false,"",79.0,55.99,0.0,Hard Drive;External,D&H
+1001713,SEAGATE BPPS USB3.0 1TB BLUE,3972,true,2,,,2015-08-01 14:34:04 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052846,"",,,,,,,,,false,"",79.0,55.99,0.0,Hard Drive;External,D&H
+1001714,SEAGATE BPPS USB3.0 1TB RED,3970,true,2,,,2015-08-01 14:34:04 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052853,"",,,,,,,,,false,"",79.0,53.99,0.0,Hard Drive;External,D&H
+1001712,SEAGATE BPPS USB3.0 1TB SILVER,3973,true,3,,,2015-08-01 14:34:04 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052839,"",,,,,,,,,false,"",79.0,53.99,0.0,Hard Drive;External,D&H
+1001715,SEAGATE BPPS USB3.0 2TB BLACK,3971,true,3,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052877,"",,,,,,,,,false,"",129.0,83.99,0.0,Hard Drive;External,D&H
+1001717,SEAGATE BPPS USB3.0 2TB BLUE,3967,true,4,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052891,"",,,,,,,,,false,"",129.0,83.99,0.0,Hard Drive;External,D&H
+1001718,SEAGATE BPPS USB3.0 2TB RED,3966,true,3,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052907,"",,,,,,,,,false,"",129.0,84.99,0.0,Hard Drive;External,D&H
+1001716,SEAGATE BPPS USB3.0 2TB SILVER,3968,true,4,,,2015-08-01 14:34:05 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649052884,"",,,,,,,,,false,"",129.0,83.99,0.0,Hard Drive;External,D&H
+1001709,SEAGATE STBP100 4BAY NAS,3837,true,1,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649033401,"",,,,,,,,,false,"",399.0,306.29,0.0,Hard Drive;Enclosure,D&H
+1001710,SEAGATE STDM8000100 NAS,4212,true,1,,,2015-08-01 14:34:03 -0700,2015-08-06 00:11:38 -0700,,false,,true,763649051573,"",,,,,,,,,false,"",899.0,715.7,0.0,Hard Drive;External,D&H
+1002099,SEAGATE STEB3000100 3TB,4496,true,1,,,2015-08-01 14:34:53 -0700,2015-08-01 14:34:53 -0700,,false,,true,,"",,,,,,,,,false,"",149.0,98.99,0.0,Hard Drive;External,Newegg
+1002100,SEAGATE STEB4000100 4TB,4495,true,6,,,2015-08-01 14:34:54 -0700,2015-08-01 14:34:54 -0700,,false,,true,,"",,,,,,,,,false,"",169.0,109.99,0.0,Hard Drive;External,Newegg
+1002101,SEAGATE STEB5000100 5TB,4494,true,1,,,2015-08-01 14:34:54 -0700,2015-08-01 14:34:54 -0700,,false,,true,,"",,,,,,,,,false,"",179.0,129.99,0.0,Hard Drive;External,D&H
+1002102,Shipping & Handling,802,false,0,,,2015-08-01 14:34:54 -0700,2015-08-01 14:34:54 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Service,
+1001561,ST122HDMI2,4115,true,3,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030842457,"",,,,,,,,,false,"",109.0,74.84,0.0,Miscellaneous,D&H
+1001557,ST4300USB3 USB3.0 HUB 4PT,3655,true,4,,,2015-08-01 14:33:41 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030841399,"",,,,,,,,,false,"",49.0,27.54,0.0,USB Devices;Flash Drive,D&H
+1002111,STT 16GB USB FLASH,1514,true,9,,,2015-08-01 14:34:55 -0700,2015-08-01 14:34:55 -0700,,false,,true,,"",,,,,,,,,false,"",19.0,6.0,0.0,USB Devices;Flash Drive,MA Laboratories Inc
+1002112,STT DG-8GB USB FLASH,2727,true,13,,,2015-08-01 14:34:55 -0700,2015-08-01 14:34:55 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,3.5,0.0,USB Devices;Flash Drive,MA Laboratories Inc
+1006162,STT W1600UB4GS 4GB DDR3 1600MHZ,W1600UB4GS,true,4,,,2015-08-05 19:53:02 -0700,2015-08-06 00:11:44 -0700,,false,1,true,878294026248,"",,,,,1,,,,false,"",49.0,30.0,0.0,RAM;Desktop,MA Laboratories Inc
+1002113,STT W1600UB8GS 8GB DDR3,4223,true,8,,,2015-08-01 14:34:55 -0700,2015-08-01 14:34:55 -0700,,false,,true,,"",,,,,,,,,false,"",79.0,48.0,0.0,RAM;Desktop,MA Laboratories Inc
+1002114,STT W160SA4GSL 4GB SODIMM,4357,true,7,,,2015-08-01 14:34:55 -0700,2015-08-05 21:00:21 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,24.29,0.0,RAM;Laptop,MA Laboratories Inc
+1002115,STT W160SB8GSL 8GB SODIMM,4356,true,9,,,2015-08-01 14:34:55 -0700,2015-08-05 21:00:20 -0700,,false,,true,,"",,,,,,,,,false,"",79.0,47.56,0.0,RAM;Laptop,MA Laboratories Inc
+1001528,SVID2USB2,4113,true,2,,,2015-08-01 14:33:37 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030822787,"",,,,,,,,,false,"",79.0,51.98,0.0,USB Devices,Amazon
+1002116,System Diagnostic,60,false,0,,,2015-08-01 14:34:55 -0700,2015-08-01 14:34:55 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,0.0,0.0,Service,
+1002117,TARGUS MINI MOBILE SURGE,1708,true,3,,,2015-08-01 14:34:55 -0700,2015-08-01 14:34:55 -0700,,false,,true,,"",,,,,,,,,false,"",24.0,15.24,0.0,Power Supply;Other,D&H
+1001451,TDK48520 DVD-R 16X 100PK,4003,true,11,,,2015-08-01 14:33:25 -0700,2015-08-06 00:11:25 -0700,,false,,true,020356485207,"",,,,,,,,,false,"",29.0,20.38,0.0,Optical Drive;Media,D&H
+1001681,TFWH2PC 2PT FIREWIRE PCMCIA,523,true,2,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,710931303162,"",,,,,,,,,false,"",39.0,18.0,0.0,Miscellaneous,MA Laboratories Inc
+1001486,THERMAL GREASE,609,true,88,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030788847,"",,,,,,,,,false,"",8.0,1.98,0.0,Miscellaneous,
+1002118,THERMALTAKE VERSA H21,4455,true,2,,,2015-08-01 14:34:55 -0700,2015-08-03 11:58:19 -0700,,false,,true,,"",,,,,,,,,false,"",59.0,33.0,0.0,Case,MA Laboratories Inc
+1002119,THERMALTAKE VERSA H22,4456,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,43.0,0.0,Case,MA Laboratories Inc
+1002120,THERMALTAKE VERSA H23,4454,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",69.0,41.0,0.0,Case,MA Laboratories Inc
+1001500,THINTOS3,2421,true,2,,,2015-08-01 14:33:33 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030802628,"",,,,,,,,,false,"",7.0,0.0,0.0,Cable;Audio,
+1001787,TPLINK 150N USB NANO TLWN725N,3871,true,11,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050719,"",,,,,,,,,false,"",15.0,8.68,0.0,Network;Wireless,D&H
+1001784,TPLINK 150N WRLS USB TLWN727N,3764,true,1,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050412,"",,,,,,,,,false,"",19.0,11.29,0.0,Network;Wireless,D&H
+1001792,TPLINK 300N WRLS RTR TLWR1043ND,3807,true,5,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973051389,"",,,,,,,,,false,"",79.0,43.47,0.0,Network;Wireless,D&H
+1001780,TPLINK 4PT ROUTER TLR402M,3748,true,1,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973040093,"",,,,,,,,,false,"",35.0,13.92,0.0,Network;Wired,D&H
+1001802,TPLINK 5DBI ANTENNA TLANT2405CL,3747,true,2,,,2015-08-01 14:34:18 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973052188,"",,,,,,,,,false,"",10.0,4.29,0.0,Network;Wireless,D&H
+1001801,TPLINK 8DBI ANTENNA TLANT2408C,3762,true,1,,,2015-08-01 14:34:18 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973052164,"",,,,,,,,,false,"",25.0,13.03,0.0,Network;Wireless,D&H
+1001781,TPLINK 8PT FW ROUTER TLR860,3766,true,1,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973040109,"",,,,,,,,,false,"",39.0,26.1,0.0,Network;Wired,D&H
+1001807,TPLINK AC1750 GIG RTR ARCHERC7,4057,true,11,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973070601,"",,,,,,,,,false,"",149.0,96.25,0.0,Network;Wireless,D&H
+1001793,TPLINK AP TLWA701ND,4056,true,1,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051402,"",,,,,,,,,false,"",29.0,17.38,0.0,Network;Wireless,D&H
+1001791,TPLINK ARCHERC2 AC750 DB GIG,4167,true,5,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050962,"",,,,,,,,,false,"",99.0,51.08,0.0,Network;Wireless,D&H
+1001809,TPLINK ARCHERC5 AC1200,4319,true,6,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973070816,"",,,,,,,,,false,"",129.0,86.62,0.0,Network;Wireless,D&H
+1001812,TPLINK ARCHERC8 AC1750 DB GIGA,4354,true,2,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973080013,"",,,,,,,,,false,"",189.0,124.46,0.0,Network;Wireless,D&H
+1001811,TPLINK ARCHERC9 AC1900 DB GIGA,4355,true,1,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973071691,"",,,,,,,,,false,"",249.0,162.76,0.0,Network;Wireless,D&H
+1001788,TPLINK ARCHERT2U,4278,true,0,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050856,"",,,,,,,,,false,"",39.0,26.08,0.0,Network;Wireless,D&H
+1001790,TPLINK ARCHERT2UH,4476,true,5,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050931,"",,,,,,,,,false,"",49.0,30.42,0.0,Network;Wireless,D&H
+1001789,TPLINK ARCHERT4U AC1200 USB,4107,true,5,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050863,"",,,,,,,,,false,"",49.0,34.77,0.0,Network;Wireless,D&H
+1001813,TPLINK ARCHERT8E PCIE AC1750,4416,true,3,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,845973080129,"",,,,,,,,,false,"",99.0,67.37,0.0,Network;Wireless,D&H
+1002121,TPLINK G1008D GIGA 8PT SWITCH,4371,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,22.0,0.0,Network;Wired,MA Laboratories Inc
+1001797,TPLINK MINI ROUTER TLWR700N,4065,true,3,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051631,"",,,,,,,,,false,"",39.0,21.73,0.0,Network;Wireless,D&H
+1001768,TPLINK NIC TG3269,3750,true,4,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,845973001001,"",,,,,,,,,false,"",15.0,8.69,0.0,Network;Wired,D&H
+1001769,TPLINK PCIE ADAPTER TG3468,3759,true,5,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,845973001049,"",,,,,,,,,false,"",25.0,13.05,0.0,Network;Wired,D&H
+1001808,TPLINK RANGE EXT TLWA850RE,4063,true,0,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973070687,"",,,,,,,,,false,"",39.0,25.8,0.0,Network;Wireless,D&H
+1001803,TPLINK TDW8970 300N RTR,4064,true,6,,,2015-08-01 14:34:18 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973060862,"",,,,,,,,,false,"",119.0,76.99,0.0,Network;Wireless,D&H
+1001804,TPLINK TDW8980 600N WRLS RTR,4066,true,0,,,2015-08-01 14:34:18 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973060886,"",,,,,,,,,false,"",149.0,93.61,0.0,Network;Wireless,D&H
+1001800,TPLINK TLANT2409A,4079,true,0,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973052034,"",,,,,,,,,false,"",29.0,19.77,0.0,Network;Wireless,D&H
+1001783,TPLINK TLER604W GIGA VPN WRLS,4216,true,0,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973041212,"",,,,,,,,,false,"",139.0,94.11,0.0,Network;Wireless,D&H
+1001778,TPLINK TLPA511STARTKIT,4118,true,1,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973031589,"",,,,,,,,,false,"",79.0,51.66,0.0,Network;Wired,D&H
+1001776,TPLINK TLPOE150S POE SPLITTER,4119,true,1,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973030506,"",,,,,,,,,false,"",29.0,17.4,0.0,Network;Wired,D&H
+1001777,TPLINK TLPS110P,3935,true,4,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973031015,"",,,,,,,,,false,"",49.0,30.1,0.0,Network;Wired,D&H
+1001782,TPLINK TLR470T MULTI-WAN,4273,true,5,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973040390,"",,,,,,,,,false,"",89.0,52.22,0.0,Network;Wired,D&H
+1006170,TPLINK TLSG1005D 5PORT GIGABIT SWITCH,TL-SG1005D,true,10,,,2015-08-05 20:31:16 -0700,2015-08-06 00:11:41 -0700,,false,1,true,845973020255,"",,,,,1,,,,false,"",29.0,17.5,0.0,Network;Wired,MA Laboratories Inc
+1006171,TPLINK TLSG1008D 8PORT GIGABIT SWITCH,TL-SG1008D,true,10,,,2015-08-05 20:33:01 -0700,2015-08-06 00:11:41 -0700,,false,1,true,845973020262,"",,,,,1,,,,false,"",39.0,22.0,0.0,Network;Wired,MA Laboratories Inc
+1001771,TPLINK TLSG1016D,4271,true,0,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:41 -0700,,false,,true,845973020613,"",,,,,,,,,false,"",119.0,76.99,0.0,Network;Wired,D&H
+1001770,TPLINK TLSG1024,4270,true,0,,,2015-08-01 14:34:12 -0700,2015-08-06 00:11:41 -0700,,false,,true,845973020101,"",,,,,,,,,false,"",149.0,96.25,0.0,Network;Wired,D&H
+1001772,TPLINK TLSG105,4305,true,0,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:41 -0700,,false,,true,845973021146,"",,,,,,,,,false,"",35.0,21.75,0.0,Network;Wired,D&H
+1001773,TPLINK TLSG108,4267,true,0,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973021153,"",,,,,,,,,false,"",39.0,26.1,0.0,Network;Wired,D&H
+1001775,TPLINK TLSG108E,4264,true,4,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973021856,"",,,,,,,,,false,"",59.0,34.81,0.0,Network;Wired,D&H
+1001774,TPLINK TLSG2008 8PT GIGABIT,4414,true,2,,,2015-08-01 14:34:13 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973021788,"",,,,,,,,,false,"",99.0,67.37,0.0,Network;Wired,D&H
+1001796,TPLINK TLWA5210G OUTDOOR AP,4218,true,0,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051488,"",,,,,,,,,false,"",99.0,59.88,0.0,Network;Wireless,D&H
+1001794,TPLINK TLWA801ND 300N AP,4318,true,0,,,2015-08-01 14:34:16 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051419,"",,,,,,,,,false,"",39.0,21.73,0.0,Network;Wireless,D&H
+1001798,TPLINK TLWA830RE,4265,true,1,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051686,"",,,,,,,,,false,"",49.0,30.42,0.0,Network;Wireless,D&H
+1001810,TPLINK TLWA854RE RANGE EXTENDER,4217,true,1,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973071356,"",,,,,,,,,false,"",39.0,24.34,0.0,Network;Wireless,D&H
+1001795,TPLINK TLWA901ND 300N AP,3987,true,4,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051426,"",,,,,,,,,false,"",59.0,34.77,0.0,Network;Wireless,D&H
+1001786,TPLINK TLWDN3200,4266,true,0,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050665,"",,,,,,,,,false,"",39.0,21.73,0.0,Network;Wireless,D&H
+1001785,TPLINK TLWDN4800 DB PCIE,4062,true,0,,,2015-08-01 14:34:15 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973050603,"",,,,,,,,,false,"",59.0,39.12,0.0,Network;Wireless,D&H
+1001806,TPLINK TLWDR3500 600N DB ROUTER,4169,true,0,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973070113,"",,,,,,,,,false,"",59.0,39.12,0.0,Network;Wireless,D&H
+1001805,TPLINK TLWDR3600 600N GIG RTR,4116,true,0,,,2015-08-01 14:34:19 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973070007,"",,,,,,,,,false,"",89.0,57.44,0.0,Network;Wireless,D&H
+1001779,TPLINK TLWPA4220KIT 300N EXT,4117,true,2,,,2015-08-01 14:34:14 -0700,2015-08-06 00:11:42 -0700,,false,,true,845973032579,"",,,,,,,,,false,"",79.0,52.16,0.0,Network;Wireless,D&H
+1001799,TPLINK TLWR702N,4272,true,2,,,2015-08-01 14:34:17 -0700,2015-08-06 00:11:43 -0700,,false,,true,845973051785,"",,,,,,,,,false,"",29.0,17.38,0.0,Network;Wireless,D&H
+1002122,TRENDNET 1PT USB TN-100MFP1,4156,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",59.0,41.0,0.0,Network;Wired,D&H
+1002123,TRENDNET 2 PORT PS/2 KVM,943,true,4,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,19.0,0.0,Peripheral,MA Laboratories Inc
+1001682,TRENDNET 4 PORT PS/2 KVM,153,true,2,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,710931304084,"",,,,,,,,,false,"",69.0,42.0,0.0,Peripheral,MA Laboratories Inc
+1001683,TRENDNET 4 PORT USB KVM,152,true,4,,,2015-08-01 14:34:00 -0700,2015-08-06 00:11:36 -0700,,false,,true,710931304268,"",,,,,,,,,false,"",69.0,42.88,0.0,USB Devices;KVM,MA Laboratories Inc
+1001679,TRENDNET 5 PORT SWITCH,225,true,1,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,710931204179,"",,,,,,,,,false,"",26.0,9.5,0.0,Network;Wired,MA Laboratories Inc
+1001680,TRENDNET 8 PORT SWITCH,226,true,1,,,2015-08-01 14:33:59 -0700,2015-08-06 00:11:36 -0700,,false,,true,710931204186,"",,,,,,,,,false,"",34.0,17.5,0.0,Network;Wired,MA Laboratories Inc
+1002124,TRENDNET TEWL202 6 SMA TO N,276,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",35.0,19.0,0.0,Network;Wireless,MA Laboratories Inc
+1002125,TRENDNET TEWL406 18 N-N TYPE,1973,true,4,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",65.0,36.0,0.0,Network;Wireless,MA Laboratories Inc
+1002126,TRENDNET TK-209K 2PT USB KVM,3184,true,1,,,2015-08-01 14:34:56 -0700,2015-08-01 14:34:56 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,22.5,0.0,USB Devices;KVM,MA Laboratories Inc
+1001754,TT COMMANDER G41 CASE,4366,true,1,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,841163054529,"",,,,,,,,,false,"",89.0,56.54,0.0,Case,D&H
+1001753,TT PSU TESTER AC0015,4242,true,8,,,2015-08-01 14:34:10 -0700,2015-08-06 00:11:40 -0700,,false,,true,841163041451,"",,,,,,,,,false,"",49.0,29.43,0.0,Power Supply;Other,D&H
+1001541,TX3SPLIT12,4308,true,7,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030833714,"",,,,,,,,,false,"",5.0,1.76,0.0,Cable;Power,D&H
+1001491,TX3SPLITTER,580,true,10,,,2015-08-01 14:33:31 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030794961,"",,,,,,,,,false,"",4.0,1.2,0.0,Cable;Power,
+1002127,ULTRATHIN KEYBOARD COVER IPAD2,3540,true,1,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",109.0,79.27,0.0,Peripheral;Keyboard,Amazon
+1001575,USB100EXT2 USB-ETHERNET EXT,3668,true,1,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030847896,"",,,,,,,,,false,"",129.0,85.5,0.0,USB Devices,D&H
+1001574,USB21000S2 USB ETHERNET ADAPTER,3777,true,8,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030847445,"",,,,,,,,,false,"",29.0,17.63,0.0,Network;Wired,D&H
+1001510,USB2FAAEXT15,41,true,5,,,2015-08-01 14:33:34 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030810500,"",,,,,,,,,false,"",29.0,14.46,0.0,Cable;USB,
+1002128,USB2HAB1,495,true,15,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",8.0,1.61,0.0,Cable;USB,
+1001543,USB2HABM1,4197,true,4,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030835152,"",,,,,,,,,false,"",6.0,1.58,0.0,Cable;USB,D&H
+1001499,USB2HABM6,3645,true,1,,,2015-08-01 14:33:32 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030802239,"",,,,,,,,,false,"",10.0,1.94,0.0,Cable;USB,D&H
+1001552,USB2HABM6IN,3825,true,2,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030840644,"",,,,,,,,,false,"",10.0,3.0,0.0,Cable;USB,D&H
+1001577,USB31000S USB3.0 GIGABIT,3577,true,7,,,2015-08-01 14:33:44 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030848404,"",,,,,,,,,false,"",45.0,24.24,0.0,Network;Wired,D&H
+1001571,USB32HDE HDMI - USB3.0,1343,true,1,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030845687,"",,,,,,,,,false,"",119.0,64.48,0.0,Video Card;USB,D&H
+1001597,USB32VGAV,4477,true,5,,,2015-08-01 14:33:47 -0700,2015-08-06 00:11:32 -0700,,false,,true,065030860833,"",,,,,,,,,false,"",79.0,46.95,0.0,Video Card; USB,D&H
+1002129,USB3SAB3 3FT USB3 A-B CABLE,2281,true,8,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",17.0,8.13,0.0,Cable;USB,
+1001545,USB3SAB6 6FT USB3 A-B CABLE,2282,true,9,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030835930,"",,,,,,,,,false,"",18.0,9.3,0.0,Cable;USB,
+1001547,USB3SEXTAA6,3820,true,2,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030837965,"",,,,,,,,,false,"",16.0,6.02,0.0,Cable;USB,D&H
+1001587,USBAMB1MD,4188,true,4,,,2015-08-01 14:33:45 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030851305,"",,,,,,,,,false,"",6.0,2.04,0.0,Cable;USB,D&H
+1001588,USBAMB2MU,4190,true,10,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030851336,"",,,,,,,,,false,"",8.0,2.27,0.0,Cable;USB,D&H
+1001593,USBBT2EDR4,4367,true,10,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:32 -0700,,false,,true,065030855198,"",,,,,,,,,false,"",18.0,10.46,0.0,USB Devices,D&H
+1001518,USBEXTAA10,963,true,18,,,2015-08-01 14:33:36 -0700,2015-08-06 00:11:28 -0700,,false,,true,065030812634,"",,,,,,,,,false,"",10.0,2.93,0.0,Cable;USB,
+1001474,USBEXTAA6,3444,true,14,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030782562,"",,,,,,,,,false,"",8.0,2.46,0.0,Cable;USB,D&H
+1001554,USBEXTAA6BK,4291,true,1,,,2015-08-01 14:33:40 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030840811,"",,,,,,,,,false,"",6.0,2.45,0.0,Cable;USB,D&H
+1002130,USBFA4S10,698,true,31,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",10.0,3.0,0.0,Cable;USB,
+1001481,USBFAB10T,4342,true,26,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030785839,"",,,,,,,,,false,"",6.0,2.17,0.0,Cable;USB,D&H
+1001482,USBFAB15T,4478,true,8,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:27 -0700,,false,,true,065030785853,"",,,,,,,,,false,"",6.0,2.71,0.0,Cable;USB,D&H
+1001473,USBFAB3,3829,true,2,,,2015-08-01 14:33:29 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030781855,"",,,,,,,,,false,"",6.0,2.0,0.0,Cable;USB,D&H
+1001480,USBFAB6T,4343,true,30,,,2015-08-01 14:33:30 -0700,2015-08-06 00:11:26 -0700,,false,,true,065030785822,"",,,,,,,,,false,"",5.0,1.68,0.0,Cable;USB,D&H
+1001701,USB TO DB25 PRINTER ADAPTER,1524,true,4,,,2015-08-01 14:34:02 -0700,2015-08-06 00:11:37 -0700,,false,,true,757120168997,"",,,,,,,,,false,"",19.0,8.51,0.0,Cable;USB,D&H
+1001674,UUSBHAUB1,3823,true,3,,,2015-08-01 14:33:58 -0700,2015-08-06 00:11:35 -0700,,false,,true,650308351369,"",,,,,,,,,false,"",10.0,3.0,0.0,Cable;USB,D&H
+1001533,UUSBHAUB6RA,3835,true,1,,,2015-08-01 14:33:38 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030830256,"",,,,,,,,,false,"",10.0,4.5,0.0,Cable;USB,D&H
+1001542,UUSBMSBMF,4076,true,5,,,2015-08-01 14:33:39 -0700,2015-08-06 00:11:29 -0700,,false,,true,065030834988,"",,,,,,,,,false,"",8.0,2.65,0.0,Cable;USB,D&H
+1006172,VANTEC 216S3BK 2.5IN SATA USB3.0,216S3BK ENCLOSURE,true,10,,,2015-08-05 20:36:46 -0700,2015-08-06 00:11:41 -0700,,false,1,true,844767020532,"",,,,,1,,,,false,"",25.0,12.0,0.0,Hard Drive;Enclosure,MA Laboratories Inc
+1002131,VANTEC 310S3BK 3.5 USB3.0,3789,true,6,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",39.0,28.0,0.0,Hard Drive;Enclosure,MA Laboratories Inc
+1002132,VC-DP/DVID,4421,true,6,,,2015-08-01 14:34:57 -0700,2015-08-03 10:32:39 -0700,,false,,true,,"",,,,,,,,,false,"",15.0,7.0,0.0,Cable;Adapter,MA Laboratories Inc
+1001454,VERB CD-R 80MIN 700MB 52X 100PK,1531,true,2,,,2015-08-01 14:33:26 -0700,2015-08-06 00:11:25 -0700,,false,,true,023942945543,"",,,,,,,,,false,"",35.0,19.9,0.0,Optical Drive;Media,D&H
+1001820,VFAT FOCUS LCD DESK MOUNT,3359,true,4,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,881493004337,"",,,,,,,,,false,"",109.0,74.0,0.0,Monitor;Mount,D&H
+1001592,VGA2HDU,4338,true,3,,,2015-08-01 14:33:46 -0700,2015-08-06 00:11:31 -0700,,false,,true,065030854962,"",,,,,,,,,false,"",59.0,36.2,0.0,Cable;Adapter,D&H
+1001569,VID2HDCON COMP-SVID TO HDMI,4033,true,2,,,2015-08-01 14:33:43 -0700,2015-08-06 00:11:30 -0700,,false,,true,065030845274,"",,,,,,,,,false,"",179.0,118.81,0.0,Miscellaneous,D&H
+1001821,VISIDEC WALL MOUNT,3707,true,1,,,2015-08-01 14:34:21 -0700,2015-08-06 00:11:44 -0700,,false,,true,881493004382,"",,,,,,,,,false,"",109.0,79.7,0.0,Monitor;Mount,D&H
+1002133,Warranty or No Charge Repair,2228,false,0,,,2015-08-01 14:34:57 -0700,2015-08-01 14:34:57 -0700,,false,,true,,"",,,,,,,,,false,"",0.0,0.0,0.0,Service,
+1002134,WD 1TB 2.5 S3 5400RPM WD10JPVX,3708,true,4,,,2015-08-01 14:34:57 -0700,2015-08-06 00:11:36 -0700,,false,,true,718037800936,"",,,,,,,,,false,"",119.0,64.0,0.0,Hard Drive;Laptop 2.5IN,MA Laboratories Inc
+1002135,WD WD5000LPLX 500G/7200 S3 32MB,4321,true,15,,,2015-08-01 14:34:57 -0700,2015-08-06 00:11:36 -0700,,false,,true,718037829982,"",,,,,,,,,false,"",89.0,52.5,0.0,Hard Drive;Laptop 2.5IN,D&H
+1002136,WD WD7500BPKT 750GB 7200RPM 2.5,3349,true,4,,,2015-08-01 14:34:58 -0700,2015-08-06 00:11:36 -0700,,false,,true,718037803975,"",,,,,,,,,false,"",99.0,60.0,0.0,Hard Drive;Laptop 2.5IN,MA Laboratories Inc
+1006165,WINDOWS 10 HOME 64BIT,WINDOWS 10 HOME,true,5,,,2015-08-05 20:13:12 -0700,2015-08-06 00:11:45 -0700,,false,1,true,885370922271,"",,,,,1,,,,false,"",129.0,95.0,0.0,Software;Operating System,MA Laboratories Inc
+1006166,WINDOWS 10 PRO 64BIT,WINDOWS 10 PRO,true,5,,,2015-08-05 20:14:17 -0700,2015-08-06 00:11:45 -0700,,false,1,true,885370920932,"",,,,,1,,,,false,"",159.0,135.0,0.0,Software;Operating System,MA Laboratories Inc
+1001834,WINDOWS 8 64BIT,3449,true,1,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,885370414059,"",,,,,,,,,false,"",129.0,95.0,0.0,Software;Operating System,D&H
+1001835,WINDOWS 8 PRO 64BIT,3448,true,3,,,2015-08-01 14:34:23 -0700,2015-08-06 00:11:45 -0700,,false,,true,885370414813,"",,,,,,,,,false,"",159.0,135.0,0.0,Software;Operating System,D&H
+1001742,XFX LOW PROFILE BRACKET KIT,116,true,3,,,2015-08-01 14:34:08 -0700,2015-08-06 00:11:39 -0700,,false,,true,778656042889,"",,,,,,,,,false,"",12.0,3.5,0.0,Video Card,MA Laboratories Inc
+1001814,YIKES RESCUE,3607,true,18,,,2015-08-01 14:34:20 -0700,2015-08-06 00:11:44 -0700,,false,,true,856429004002,"",,,,,,,,,false,"",10.0,5.85,0.0,Miscellaneous,D&H
